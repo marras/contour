@@ -1,0 +1,13 @@
+jaki zakres jest juz pokryty? - zroibc tabelkę
+- wypluwac pkty po kliknieciu (do dosymulowania)
+- usuwac pkty przy klinieciu
+
+- dorobic dół wykresów Z(phi) tzn małe Z ~ jak twarde kule
+
+- sól: od 1e-3 do 100uM(albo nawet 10000uM - zwłaszcza dla małych kulek), żeby mieć 
+
+- dla diam=5 (b.mała) nie powinno być wyspy z lewej strony, nawet dla małych soli
+    --> nieprawda! wyspa dla b.małej soli zawsze będzie, tylko bardziej z lewej (coraz mniejszych phi, ale dal tego samego stęzenia liczbowego!)
+- coll.densitty zawsze 1.95 na sztywno
+
+AutoIt -> przyjmować 2pi/MeanR (~ C_n) zamiast phi
