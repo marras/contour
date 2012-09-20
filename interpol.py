@@ -1,7 +1,7 @@
 from numpy import *
 from math import sqrt
 
-power = 4
+power = 6
 
 # x,y - actual data
 # xi,yi - logspace grid points
@@ -13,10 +13,6 @@ def my_griddata((x, y), z, (xi, yi)):
         for px in xi[0]:
             interpolated_z = z_value (px,py, x,y,z)
             out.append(interpolated_z)
-    #print "len (xi) = ", len(xi[0])
-    #print "len (z) = ", len(z)
-    #print "len (out) = ", len(out)
-    #print "out = ", out
     return array(out).reshape(len(xi[0]), len(yi))
 
 def z_value(px,py, x,y,z):
