@@ -20,7 +20,7 @@ else
     echo $line > last_choice
 fi
 
-arr=(`echo $line | tr " " "\n"`) # a = ("dupa", "srupa") -> array
+arr=(`echo $line | tr " " "\n"`) # a = ("bolek", "lolek") -> array
 
 num_elem=${#arr[@]}  # '#' -> liczba elementow
 echo "Number of elements: " $num_elem
