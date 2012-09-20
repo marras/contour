@@ -10,3 +10,15 @@ Requirements:
 - ruby (1.9 works fine)
 - bash
 - awk
+
+Usage:
+-----
+
+./preprocess.sh x y z constraints
+
+Parameters format: column\_name[=range]
+- *column\_name* - name of column (e.g. _charge_), or its part, (_charg_)
+- *range* (optional):
+  - * - any values
+  - 1,5 - values from 1 to 5
+
