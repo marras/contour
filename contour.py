@@ -6,95 +6,83 @@ from numpy.random import *
 from scipy import *
 from scipy.interpolate import griddata
 from matplotlib.pyplot import *
+import wx
 import interpol
+import aux
+import sys
+
+if len(sys.argv) > 1:
+    if sys.argv[1] == '--line': only_line = True
+    print "Generating line phase diagram"
+else:
+    only_line = False
+    print "Generating contour plot for S(qm)"
 
 #Settings
 pts = 100
 
-def max (lst):
-    max = lst[0]
-    for i in lst[1:]:
-        if i > max: max = i
-    return max
-def min (lst):
-    min = lst[0]
-    for i in lst[1:]:
-        if i < min: min = i
-    return min
-
 f = open ("dane.dat", "rt")
-
-x = []
-y = []
-z = []
-
-rx = []
-ry = []
-rz = []
 
 [xh, yh, zh] = f.readline().split()[:3] #skip header line
 print "Header: ",xh,yh,zh
 
-for l in f.readlines():
-    va = l.split()
+def prepare_graph():
+    x = []; y = []; z = []
+    more_to_come = aux.read_data (x,y,z,f)
 
-    x.append(float(va[0]))
-    y.append(float(va[1]))
-    z.append(float(va[2]))
+    print "min(x)\t max(x)\t min(y)\t max(y)"
+    print min(x),"\t", max(x),"\t", min(y),"\t", max(y)
 
-print "min(x)\t max(x)\t min(y)\t max(y)"
-print min(x),"\t", max(x),"\t", min(y),"\t", max(y)
+    # Grid the data
+    xi = aux.my_logspace(min(x),max(x),pts)
+    yi = aux.my_logspace(min(y),max(y),pts)
 
-def my_logspace(start, end, pts):
-    arr = [start]
-    step = pow(end/start, 1.0/pts)
-    a = start * step
-    while a <= end:
-        arr.append(a)
-        a = a * step
-    return array(arr)
+    # For sensible interpolation we need to temporarily get rid of the Log scale
+    xi_lin = array([ math.log(a) / math.log(max(x))  for a in xi ])
+    yi_lin = array([ math.log(a) / math.log(max(y))  for a in yi ])
+    x_lin = array([ math.log(a) / math.log(max(x))  for a in x ])
+    y_lin = array([ math.log(a) / math.log(max(y))  for a in y ])
 
-# Grid the data
+    # Custom interpolation routine (defined in interpol.py)
+    #zi = interpol.my_griddata((x, y), z, (xi[None,:], yi[:,None])) #non-linearized version
+    # Builtin interpolation (SciPy)
+    zi = griddata((x_lin, y_lin), z, (xi_lin[None,:], yi_lin[:,None]), method='linear') #'cubic', 'linear'
 
-xi = my_logspace(min(x),max(x),pts)
-yi = my_logspace(min(y),max(y),pts)
+    # contour the gridded data.
+    levels = arange(0.1, 5.1, 0.3) # Boost the upper limit to avoid truncation
 
-# For sensible interpolation we need to temporarily get rid of the Log scale
-xi_lin = array([ math.log(a) / math.log(max(x))  for a in xi ])
-yi_lin = array([ math.log(a) / math.log(max(y))  for a in yi ])
-x_lin = array([ math.log(a) / math.log(max(x))  for a in x ])
-y_lin = array([ math.log(a) / math.log(max(y))  for a in y ])
+    if not only_line:
+        CS = contour(xi,yi,zi,15,linewidths=0.5,colors='k')
+        CS = contourf(xi,yi,zi,15,cmap=cm.jet, levels=levels)
+        colorbar() # draw colorbar
+        scatter(x,y,marker='o',c='b',s=5)
 
-# Builtin interpolation (SciPy)
-#zi = griddata((x, y), z, (xi[None,:], yi[:,None]), method='linear') #'cubic', 'linear'
-#zi = griddata((x_lin, y_lin), z, (xi_lin[None,:], yi_lin[:,None]), method='linear') #'cubic', 'linear'
+        if more_to_come:
+            print "Error: requested to create a contour plot with multiple data sets! Drawing only first one."
+            return
 
-# Custom interpolation routine (defined in interpol.py)
-#zi = interpol.my_griddata((x, y), z, (xi[None,:], yi[:,None])) #non-linearized version
-zi = interpol.my_griddata((x_lin, y_lin), z, (xi_lin[None,:], yi_lin[:,None])) #'cubic', 'linear'
+    CS = contour(xi,yi,zi, (3.1,), colors = 'k', linewidths = 3, hold='on')
 
-# contour the gridded data.
-levels = arange(0.1, 5.1, 0.3) # Boost the upper limit to avoid truncation
+    if more_to_come:
+        prepare_graph()
 
-CS = contour(xi,yi,zi,15,linewidths=0.5,colors='k')
-CS = contourf(xi,yi,zi,15,cmap=cm.jet, levels=levels)
-colorbar() # draw colorbar
-
-CS = contour(xi,yi,zi, (3.1,), colors = 'k', linewidths = 3, hold='on')
-
-# Plot data points
-scatter(x,y,marker='o',c='b',s=5)
-
-X = array(x)
-Y = array(y)
-Z = array(z)
+fig = figure()
+prepare_graph()
 
 xlabel(xh)
 ylabel(yh)
 title('Mapa S(q_m)')
-
 xscale('log')
 yscale('log')
-show()
+
+fout = open ("clicks.dat", "wt")
+fout.write("%s\t%s\n" % (xh,yh))
+
+mouse = aux.MouseHandler(fig, fout)
+fig.canvas.mpl_connect('button_press_event', mouse.on_pick)
+
+fig.show()
+while True:
+    fig.waitforbuttonpress()
 
 #import code; code.interact(local=locals()) #TURN ON DEBUGGER
