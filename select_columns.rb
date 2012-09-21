@@ -23,6 +23,9 @@ class Constraint
       return arr[index].to_f >= @min.to_f && arr[index].to_f <= @max.to_f
     elsif @rhs == '*'
       return true
+    elsif @rhs[0] == '~' # =~ --> 10% uncertainty
+      rhs_value = @rhs[1..-1].to_f
+      return arr[index].to_f >= rhs_value / 1.1 && arr[index].to_f <= rhs_value * 1.1
     else
       return arr[index] == @rhs
     end
