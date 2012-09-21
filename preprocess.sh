@@ -27,7 +27,7 @@ echo "Number of elements: " $num_elem
 
 if [ $num_elem -le 3 ]
 then
-    echo "Please enter 3 variables (x,y,z) to plot against."
+    echo "Please enter 3 variables (x,y,z) to plot against and at least one constraint (e.g. diam=60)."
     exit 1
 fi
 
