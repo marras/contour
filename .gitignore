@@ -1,3 +1,4 @@
-dane_tmp.dat
-dane.dat
+*.dat
+!header.dat
+!wszystkie.dat
 *.pyc
