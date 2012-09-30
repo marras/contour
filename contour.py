@@ -38,10 +38,10 @@ def prepare_graph():
     yi = aux.my_logspace(min(y),max(y),pts)
 
     # For sensible interpolation we need to temporarily get rid of the Log scale
-    xi_lin = array([ math.log(a) / math.log(max(x))  for a in xi ])
-    yi_lin = array([ math.log(a) / math.log(max(y))  for a in yi ])
-    x_lin = array([ math.log(a) / math.log(max(x))  for a in x ])
-    y_lin = array([ math.log(a) / math.log(max(y))  for a in y ])
+    xi_lin = array([ math.log(a) for a in xi ])
+    yi_lin = array([ math.log(a) for a in yi ])
+    x_lin = array([ math.log(a)  for a in x ])
+    y_lin = array([ math.log(a)  for a in y ])
 
     # Custom interpolation routine (defined in interpol.py)
     #zi = interpol.my_griddata((x, y), z, (xi[None,:], yi[:,None])) #non-linearized version
