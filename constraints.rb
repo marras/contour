@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 
 class Constraint
+  attr_reader :name
+
   def initialize(str, name)
     raise "Incorrect constraint format!" unless str =~ /=/
     @name = name
