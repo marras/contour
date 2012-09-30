@@ -1,11 +1,31 @@
 #!/usr/bin/env ruby
 
-f = File.open("dane.dat", "rt")
+require './constraints'
 
-xh, yh = f.gets.split("\t")
-print "Header: #{xh}, #{yh}"
+names_arr = %w(diam salt phi charge)
 
-#TODO read last_choice
-#store values as array of hashes
-#[{'phi' => '0.2', 'Z' => '1000', 'diam' = 20, ...}, {'phi' => '0.18', 'Z' => '900', 'diam' = 20, ...}]
-#write this stuff into one file, fixed order of columns --> AutoIt
+fh = File.open("last_choice", "rt")
+constr_string = fh.gets.split
+constr_string.delete_at 2 # ingore the z axis
+columns, constraints = Constraint.parse_args(constr_string, names_arr)
+
+p constraints
+puts
+
+fdata = File.open("clicks.dat", "rt")
+xh, yh = fdata.gets.strip.split("\t")
+print "Data file header: #{xh}, #{yh}"
+
+fout = File.open("batch.dat", "wt")
+params = %w(phi charge diam Salt)
+fout.puts params.join("\t")
+
+fdata.each do |line|
+  values = line.split
+  hash = {xh => values[0], yh => values[1]}
+  constraints.each do |c|
+    hash[c.name] = c.value
+  end
+  puts hash
+  fout.puts params.map{ |p| hash[p] }.join("\t")
+end
