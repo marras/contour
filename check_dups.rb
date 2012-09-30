@@ -4,7 +4,7 @@ def within(a,b,e)
   ((a.to_f-b.to_f)/a.to_f).abs < e.to_f
 end
 
-avg = true if ARGV.count > 2 && ARGV[2] == "--avg" 
+avg = true if ARGV.count > 2 && ARGV[2] == "--avg"
 raise "check_dups INFILE OUTFILE [--avg]" unless [2,3].include? ARGV.count
 
 f = open(ARGV[0], 'rt')
