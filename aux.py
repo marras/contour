@@ -21,7 +21,7 @@ def my_logspace(start, end, pts):
     arr = [start]
     step = pow(end/start, 1.0/pts)
     a = start * step
-    while a <= end:
+    for i in range(pts):
         arr.append(a)
         a = a * step
     return array(arr)
