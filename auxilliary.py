@@ -32,6 +32,9 @@ class MouseHandler:
     fp = None
     xdatalist = []
     ydatalist = []
+    last_x = None
+    last_y = None
+    num_points = 0
 
     def __init__(self, fig, fp, redraw_callback):
         self.figure = fig
@@ -57,6 +60,13 @@ class MouseHandler:
 
         # Plot a red circle where you clicked.
         ax.plot([self.event.xdata],[self.event.ydata],'ro')
+        self.num_points += 1
+
+        if mod(self.num_points,2) == 0:
+            # Plot a line to the previous odd point if the current one is even.
+            ax.plot([self.last_x,self.event.xdata],[self.last_y,self.event.ydata],'g-')
+        else:
+            self.last_x, self.last_y = self.event.xdata, self.event.ydata
 
         self.figure.canvas.draw()  # to refresh the plot.
 
