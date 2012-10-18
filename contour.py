@@ -26,7 +26,7 @@ class ContourPlotGenerator:
     def load_data_and_draw(self):
         self.fig = figure()
         self.x = []; self.y = []; self.z = []
-        more_to_come = aux.read_data (self.x,self.y,self.z,self.f)
+        more_to_come = auxilliary.read_data (self.x,self.y,self.z,self.f)
 
         print "min(x)\t max(x)\t min(y)\t max(y)"
         print min(self.x),"\t", max(self.x),"\t", min(self.y),"\t", max(self.y)
@@ -35,8 +35,8 @@ class ContourPlotGenerator:
 
     def grid_and_plot(self, more_to_come):
         # Grid the data
-        xi = aux.my_logspace(min(self.x),max(self.x),self.pts)
-        yi = aux.my_logspace(min(self.y),max(self.y),self.pts)
+        xi = auxilliary.my_logspace(min(self.x),max(self.x),self.pts)
+        yi = auxilliary.my_logspace(min(self.y),max(self.y),self.pts)
 
         # For sensible interpolation we need to temporarily get rid of the Log scale
         xi_lin = array([ math.log(a) for a in xi ])
@@ -100,7 +100,7 @@ class ContourPlotGenerator:
         fout = open ("clicks.dat", "wt")
         fout.write("%s\t%s\n" % (self.xh,self.yh))
 
-        self.mouse = aux.MouseHandler(self.fig, fout, self.redraw)
+        self.mouse = auxilliary.MouseHandler(self.fig, fout, self.redraw)
         self.fig.canvas.mpl_connect('button_press_event', self.mouse.on_pick)
 
         self.fig.show()
