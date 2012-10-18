@@ -8,7 +8,7 @@ from scipy.interpolate import griddata
 from matplotlib.pyplot import *
 import wx
 import interpol
-import aux
+import auxilliary
 import sys
 
 class ContourPlotGenerator:
