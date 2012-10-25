@@ -31,6 +31,7 @@ then
     exit 1
 fi
 
+line=$line+" alpha"
 ruby select_columns.rb $line
 
 ruby check_dups.rb dane_tmp.dat dane.dat --avg
