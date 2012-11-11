@@ -4,7 +4,7 @@
 from numpy import *
 
 #Auxilliary functions
-def read_data (x,y,z,alpha,f):
+def read_data (x,y,z=None,alpha=None,f=None):
     l = f.readline()
     while l:
         # Detect separator
@@ -13,8 +13,9 @@ def read_data (x,y,z,alpha,f):
 
         x.append(float(va[0]))
         y.append(float(va[1]))
-        z.append(float(va[2]))
-        alpha.append(float(va[-1]))
+        if z != None and alpha != None: #if we wanna read all params
+            z.append(float(va[2]))
+            alpha.append(float(va[-1]))
         l = f.readline()
     return False
 
