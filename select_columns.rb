@@ -5,7 +5,7 @@ require './constraints'
 f = File.open("czyste.dat","rt")
 names_arr = f.gets.split
 
-raise "Incorrect argument count: provide at least x y z + constraints" unless ARGV.count > 3
+#raise "Incorrect argument count: provide at least x y z + constraints" unless ARGV.count > 3
 
 columns, constraints = Constraint.parse_args(ARGV, names_arr)
 p columns
