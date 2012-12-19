@@ -1,0 +1,798 @@
+2012-12-17 12:56:44 : Próbkowanie S(q) w 2D dla par. startowych: d=x, Z=400 phi=y salt=0.1
+2012-12-17 12:56:44 : X: diam od 5 do 100, Y: phi od 1e-5 do 0.3
+2012-12-17 12:56:44 : ** Obliczam kolumne dla diam = 5**
+2012-12-17 12:56:44 : Obliczam S(q) dla phi = 1e-5
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1498
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.136748065190456
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.17976
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.113956720992047
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.215712
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.0949639341600392
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.2588544
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.0791366118000327
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.31062528
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.0659471765000272
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.372750336
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.0549559804166894
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.4473004032
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0457966503472411
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.53676048384
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0381638752893676
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.644112580608
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0318032294078064
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.7729350967296
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.026502691173172
+2012-12-17 12:58:12 : RunRY: Done, fitted alfa =  2.756E-02, start_alpha = 0.026502691173172 $var = -1, S(qm) =  2.304E+00
+2012-12-17 12:58:12 : Obliczam S(q) dla phi = 3.14382177153182e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.02756
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0251587228080706
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.033072
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0209656023400589
+2012-12-17 12:58:21 : RunRY: Done, fitted alfa =  3.475E-02, start_alpha = 0.033072 $var = -1, S(qm) =  1.833E+00
+2012-12-17 12:58:21 : Obliczam S(q) dla phi = 9.88361533115748e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.03475
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0317222647888409
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.0417
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0264352206573674
+2012-12-17 12:58:31 : RunRY: Done, fitted alfa =  4.379E-02, start_alpha = 0.03475 $var = -1, S(qm) =  1.485E+00
+2012-12-17 12:58:31 : Obliczam S(q) dla phi = 0.000310723250595386
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.04379
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0399746179885854
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.052548
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0333121816571545
+2012-12-17 12:58:40 : RunRY: Done, fitted alfa =  5.703E-02, start_alpha = 0.04379 $var = -1, S(qm) =  1.286E+00
+2012-12-17 12:58:40 : Obliczam S(q) dla phi = 0.000976858520142912
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.05703
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.052061029090866
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.068436
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.043384190909055
+2012-12-17 12:58:49 : RunRY: Done, fitted alfa =  7.534E-02, start_alpha = 0.05703 $var = -1, S(qm) =  1.182E+00
+2012-12-17 12:58:49 : Obliczam S(q) dla phi = 0.00307106908333164
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.07534
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0687756958040654
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.090408
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0573130798367211
+2012-12-17 12:58:59 : RunRY: Done, fitted alfa =  1.004E-01, start_alpha = 0.07534 $var = -1, S(qm) =  1.135E+00
+2012-12-17 12:58:59 : Obliczam S(q) dla phi = 0.0096548938460563
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1004
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0916522412891978
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.12048
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0763768677409982
+2012-12-17 12:59:08 : RunRY: Done, fitted alfa =  1.327E-01, start_alpha = 0.1004 $var = -1, S(qm) =  1.125E+00
+2012-12-17 12:59:08 : Obliczam S(q) dla phi = 0.0303532654750604
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1327
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.121137972301559
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.15924
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.100948310251299
+2012-12-17 12:59:17 : RunRY: Done, fitted alfa =  1.714E-01, start_alpha = 0.1327 $var = -1, S(qm) =  1.160E+00
+2012-12-17 12:59:17 : Obliczam S(q) dla phi = 0.09542525683758
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1714
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.156466077260642
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.20568
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.130388397717202
+2012-12-17 12:59:26 : RunRY: Done, fitted alfa =  2.161E-01, start_alpha = 0.1714 $var = -1, S(qm) =  1.316E+00
+2012-12-17 12:59:26 : Obliczam S(q) dla phi = 0.3
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2161
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.197271407794777
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.25932
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.164392839828981
+2012-12-17 12:59:38 : RunRY: Done, fitted alfa =  2.499E-01, start_alpha = 0.2161 $var = -1, S(qm) =  2.369E+00
+2012-12-17 12:59:38 : ** Obliczam kolumne dla diam = 7.67063702317195**
+2012-12-17 12:59:38 : Obliczam S(q) dla phi = 1e-5
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2499
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.228126445200902
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.29988
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.190105371000751
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.359856
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.158421142500626
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.4318272
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.132017618750522
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.51819264
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.110014682292102
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.621831168
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.0916789019100846
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.7461974016
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0763990849250705
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.89543688192
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0636659041042254
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 1.074524258304
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0530549200868545
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.269285384565592
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0442124334057121
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2499
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.228126445200902
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.29988
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.190105371000751
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.359856
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.158421142500626
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.4318272
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.132017618750522
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.51819264
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.110014682292102
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.621831168
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.0916789019100846
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.7461974016
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0763990849250705
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.89543688192
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0636659041042254
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 1.074524258304
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0530549200868545
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.91526489239186
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0442124334057121
+2012-12-17 13:03:48 : RunRY: I tried to fit alpha 32 times and still can't do it! Skipping fit.
+2012-12-17 13:03:48 : Nie udalo sie obliczyc S(q) dla phi = 1e-5!
+2012-12-17 13:03:48 : Obliczam S(q) dla phi = 3.14382177153182e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.0442124334057121
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0403602451641725
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.0530549200868545
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0336335376368104
+2012-12-17 13:03:58 : RunRY: Done, fitted alfa =  4.120E-02, start_alpha = 0.0403602451641725 $var = -1, S(qm) =  2.373E+00
+2012-12-17 13:03:58 : Obliczam S(q) dla phi = 9.88361533115748e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.0412
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0376102822820214
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.04944
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0313419019016845
+2012-12-17 13:04:07 : RunRY: Done, fitted alfa =  5.128E-02, start_alpha = 0.04944 $var = -1, S(qm) =  1.896E+00
+2012-12-17 13:04:07 : Obliczam S(q) dla phi = 0.000310723250595386
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.05128
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0468120212481082
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.061536
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0390100177067568
+2012-12-17 13:04:16 : RunRY: Done, fitted alfa =  6.550E-02, start_alpha = 0.061536 $var = -1, S(qm) =  1.542E+00
+2012-12-17 13:04:16 : Obliczam S(q) dla phi = 0.000976858520142912
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.0655
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0597930458609806
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.0786
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0498275382174839
+2012-12-17 13:04:25 : RunRY: Done, fitted alfa =  8.383E-02, start_alpha = 0.0655 $var = -1, S(qm) =  1.333E+00
+2012-12-17 13:04:25 : Obliczam S(q) dla phi = 0.00307106908333164
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.08383
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0765259699927635
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.100596
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0637716416606362
+2012-12-17 13:04:35 : RunRY: Done, fitted alfa =  1.091E-01, start_alpha = 0.08383 $var = -1, S(qm) =  1.230E+00
+2012-12-17 13:04:35 : Obliczam S(q) dla phi = 0.0096548938460563
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1091
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0995942183730227
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.13092
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0829951819775189
+2012-12-17 13:04:44 : RunRY: Done, fitted alfa =  1.422E-01, start_alpha = 0.1091 $var = -1, S(qm) =  1.197E+00
+2012-12-17 13:04:44 : Obliczam S(q) dla phi = 0.0303532654750604
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1422
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.129810246128724
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.17064
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.10817520510727
+2012-12-17 13:04:53 : RunRY: Done, fitted alfa =  1.822E-01, start_alpha = 0.1422 $var = -1, S(qm) =  1.230E+00
+2012-12-17 13:04:53 : Obliczam S(q) dla phi = 0.09542525683758
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1822
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.166325083295735
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.21864
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.13860423607978
+2012-12-17 13:05:03 : RunRY: Done, fitted alfa =  2.260E-01, start_alpha = 0.1822 $var = -1, S(qm) =  1.418E+00
+2012-12-17 13:05:03 : Obliczam S(q) dla phi = 0.3
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.226
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.206308829993613
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.2712
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.171924024994677
+2012-12-17 13:05:12 : RunRY: Done, fitted alfa =  2.458E-01, start_alpha = 0.226 $var = -1, S(qm) =  2.744E+00
+2012-12-17 13:05:12 : ** Obliczam kolumne dla diam = 11.7677344682513**
+2012-12-17 13:05:12 : Obliczam S(q) dla phi = 1e-5
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2458
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.224383674391283
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.29496
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.186986395326069
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.353952
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.155821996105058
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.4247424
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.129851663420881
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.50969088
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.108209719517401
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.611629056
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.090174766264501
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.7339548672
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0751456385537508
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.88074584064
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.062621365461459
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 1.056895008768
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0521844712178825
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.221690151607618
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0434870593482354
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2458
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.224383674391283
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.29496
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.186986395326069
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.353952
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.155821996105058
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.4247424
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.129851663420881
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.50969088
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.108209719517401
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.611629056
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.090174766264501
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.7339548672
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0751456385537508
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.88074584064
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.062621365461459
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 1.056895008768
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0521844712178825
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.804841253673658
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0434870593482354
+2012-12-17 13:09:24 : RunRY: I tried to fit alpha 32 times and still can't do it! Skipping fit.
+2012-12-17 13:09:24 : Nie udalo sie obliczyc S(q) dla phi = 1e-5!
+2012-12-17 13:09:24 : Obliczam S(q) dla phi = 3.14382177153182e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.0434870593482354
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0396980722743241
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.0521844712178825
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0330817268952701
+2012-12-17 13:09:35 : RunRY: Done, fitted alfa =  4.880E-02, start_alpha = 0.0434870593482354 $var = -1, S(qm) =  2.847E+00
+2012-12-17 13:09:35 : Obliczam S(q) dla phi = 9.88361533115748e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.0488
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0445481013437535
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.05856
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0371234177864613
+2012-12-17 13:09:47 : RunRY: Done, fitted alfa =  6.061E-02, start_alpha = 0.05856 $var = -1, S(qm) =  2.438E+00
+2012-12-17 13:09:47 : Obliczam S(q) dla phi = 0.000310723250595386
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.06061
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0553291070173135
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.072732
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0461075891810946
+2012-12-17 13:09:59 : RunRY: Done, fitted alfa =  7.722E-02, start_alpha = 0.06061 $var = -1, S(qm) =  1.984E+00
+2012-12-17 13:09:59 : Obliczam S(q) dla phi = 0.000976858520142912
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.07722
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0704918931509149
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.092664
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0587432442924291
+2012-12-17 13:10:08 : RunRY: Done, fitted alfa =  9.674E-02, start_alpha = 0.07722 $var = -1, S(qm) =  1.622E+00
+2012-12-17 13:10:08 : Obliczam S(q) dla phi = 0.00307106908333164
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.09674
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0883111336884163
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.116088
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0735926114070136
+2012-12-17 13:10:18 : RunRY: Done, fitted alfa =  1.227E-01, start_alpha = 0.09674 $var = -1, S(qm) =  1.414E+00
+2012-12-17 13:10:18 : Obliczam S(q) dla phi = 0.0096548938460563
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1227
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.112009263009806
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.14724
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0933410525081721
+2012-12-17 13:10:27 : RunRY: Done, fitted alfa =  1.565E-01, start_alpha = 0.1227 $var = -1, S(qm) =  1.328E+00
+2012-12-17 13:10:27 : Obliczam S(q) dla phi = 0.0303532654750604
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1565
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.142864300415931
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.1878
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.119053583679942
+2012-12-17 13:10:36 : RunRY: Done, fitted alfa =  1.976E-01, start_alpha = 0.1565 $var = -1, S(qm) =  1.351E+00
+2012-12-17 13:10:36 : Obliczam S(q) dla phi = 0.09542525683758
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1976
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.180383295605035
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.23712
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.150319413004196
+2012-12-17 13:10:46 : RunRY: Done, fitted alfa =  2.413E-01, start_alpha = 0.1976 $var = -1, S(qm) =  1.587E+00
+2012-12-17 13:10:46 : Obliczam S(q) dla phi = 0.3
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2413
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.220275755209994
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.28956
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.183563129341662
+2012-12-17 13:10:55 : RunRY: Done, fitted alfa =  2.550E-01, start_alpha = 0.2413 $var = -1, S(qm) =  3.333E+00
+2012-12-17 13:10:55 : ** Obliczam kolumne dla diam = 18.053203938205**
+2012-12-17 13:10:55 : Obliczam S(q) dla phi = 1e-5
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.255
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.232782086939696
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.306
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.193985072449746
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.3672
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.161654227041455
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.44064
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.134711855867879
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.528768
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.1122598798899
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.6345216
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.0935498999082496
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.76142592
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0779582499235413
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.913711104
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0649652082696178
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 1.0964533248
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0541376735580148
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.784922510851175
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0451147279650123
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.255
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.232782086939696
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.306
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.193985072449746
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.3672
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.161654227041455
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.44064
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.134711855867879
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.528768
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.1122598798899
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.6345216
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.0935498999082496
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.76142592
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0779582499235413
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.913711104
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0649652082696178
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 1.0964533248
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0541376735580148
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.219352304004133
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0451147279650123
+2012-12-17 13:15:05 : RunRY: I tried to fit alpha 32 times and still can't do it! Skipping fit.
+2012-12-17 13:15:05 : Nie udalo sie obliczyc S(q) dla phi = 1e-5!
+2012-12-17 13:15:05 : Obliczam S(q) dla phi = 3.14382177153182e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.0451147279650123
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0411839236369106
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.0541376735580148
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0343199363640922
+2012-12-17 13:15:19 : RunRY: Done, fitted alfa =  5.738E-02, start_alpha = 0.0541376735580148 $var = -1, S(qm) =  3.045E+00
+2012-12-17 13:15:19 : Obliczam S(q) dla phi = 9.88361533115748e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.05738
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0523805339160774
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.068856
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0436504449300645
+2012-12-17 13:15:31 : RunRY: Done, fitted alfa =  7.169E-02, start_alpha = 0.068856 $var = -1, S(qm) =  2.867E+00
+2012-12-17 13:15:31 : Obliczam S(q) dla phi = 0.000310723250595386
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.07169
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0654437169125756
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.086028
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0545364307604797
+2012-12-17 13:15:45 : RunRY: Done, fitted alfa =  9.171E-02, start_alpha = 0.07169 $var = -1, S(qm) =  2.539E+00
+2012-12-17 13:15:45 : Obliczam S(q) dla phi = 0.000976858520142912
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.09171
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0837193929146647
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.110052
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0697661607622205
+2012-12-17 13:15:55 : RunRY: Done, fitted alfa =  1.141E-01, start_alpha = 0.110052 $var = -1, S(qm) =  2.099E+00
+2012-12-17 13:15:55 : Obliczam S(q) dla phi = 0.00307106908333164
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1141
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.104158573018899
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.13692
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0867988108490826
+2012-12-17 13:16:04 : RunRY: Done, fitted alfa =  1.427E-01, start_alpha = 0.13692 $var = -1, S(qm) =  1.755E+00
+2012-12-17 13:16:04 : Obliczam S(q) dla phi = 0.0096548938460563
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1427
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.130266681593312
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.17124
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.108555567994427
+2012-12-17 13:16:13 : RunRY: Done, fitted alfa =  1.782E-01, start_alpha = 0.1427 $var = -1, S(qm) =  1.574E+00
+2012-12-17 13:16:13 : Obliczam S(q) dla phi = 0.0303532654750604
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1782
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.162673599579034
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.21384
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.135561332982529
+2012-12-17 13:16:23 : RunRY: Done, fitted alfa =  2.205E-01, start_alpha = 0.1782 $var = -1, S(qm) =  1.568E+00
+2012-12-17 13:16:23 : Obliczam S(q) dla phi = 0.09542525683758
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2205
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.201288039883149
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.2646
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.167740033235957
+2012-12-17 13:16:34 : RunRY: Done, fitted alfa =  2.642E-01, start_alpha = 0.2205 $var = -1, S(qm) =  1.875E+00
+2012-12-17 13:16:34 : Obliczam S(q) dla phi = 0.3
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2642
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.241180499488108
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.31704
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.200983749573423
+2012-12-17 13:16:46 : RunRY: Done, fitted alfa =  2.717E-01, start_alpha = 0.2642 $var = -1, S(qm) =  4.273E+00
+2012-12-17 13:16:46 : ** Obliczam kolumne dla diam = 27.6959149030538**
+2012-12-17 13:16:46 : Obliczam S(q) dla phi = 1e-5
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2717
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.248027031456923
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.32604
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.206689192880769
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.391248
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.172240994067307
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.4694976
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.143534161722756
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.56339712
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.11961180143563
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.676076544
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.0996765011963585
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.8112918528
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0830637509969654
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.97355022336
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0692197924974712
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.786448088241741
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0576831604145593
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.878895514877513
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0480693003454661
+2012-12-17 13:18:14 : RunRY: Done, fitted alfa =  4.905E-02, start_alpha = 0.0480693003454661 $var = -1, S(qm) =  2.624E+00
+2012-12-17 13:18:14 : Obliczam S(q) dla phi = 3.14382177153182e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.04905
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0447763190760473
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.05886
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0373135992300394
+2012-12-17 13:18:31 : RunRY: Done, fitted alfa =  6.611E-02, start_alpha = 0.05886 $var = -1, S(qm) =  2.941E+00
+2012-12-17 13:18:31 : Obliczam S(q) dla phi = 9.88361533115748e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.06611
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0603498971277776
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.079332
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0502915809398146
+2012-12-17 13:18:45 : RunRY: Done, fitted alfa =  8.437E-02, start_alpha = 0.079332 $var = -1, S(qm) =  3.003E+00
+2012-12-17 13:18:45 : Obliczam S(q) dla phi = 0.000310723250595386
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.08437
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0770189202945181
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.101244
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0641824335787651
+2012-12-17 13:18:59 : RunRY: Done, fitted alfa =  1.086E-01, start_alpha = 0.101244 $var = -1, S(qm) =  2.962E+00
+2012-12-17 13:18:59 : Obliczam S(q) dla phi = 0.000976858520142912
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1086
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0991377829084351
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.13032
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0826148190903626
+2012-12-17 13:19:11 : RunRY: Done, fitted alfa =  1.355E-01, start_alpha = 0.13032 $var = -1, S(qm) =  2.654E+00
+2012-12-17 13:19:11 : Obliczam S(q) dla phi = 0.00307106908333164
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1355
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.12369401090325
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.1626
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.103078342419375
+2012-12-17 13:19:20 : RunRY: Done, fitted alfa =  1.689E-01, start_alpha = 0.1626 $var = -1, S(qm) =  2.282E+00
+2012-12-17 13:19:20 : Obliczam S(q) dla phi = 0.0096548938460563
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1689
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.154183899937704
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.20268
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.12848658328142
+2012-12-17 13:19:30 : RunRY: Done, fitted alfa =  2.088E-01, start_alpha = 0.20268 $var = -1, S(qm) =  2.007E+00
+2012-12-17 13:19:30 : Obliczam S(q) dla phi = 0.0303532654750604
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2088
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.190607450011798
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.25056
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.158839541676498
+2012-12-17 13:19:39 : RunRY: Done, fitted alfa =  2.543E-01, start_alpha = 0.25056 $var = -1, S(qm) =  1.955E+00
+2012-12-17 13:19:39 : Obliczam S(q) dla phi = 0.09542525683758
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2543
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.232143077289273
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.30516
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.193452564407727
+2012-12-17 13:19:51 : RunRY: Done, fitted alfa =  2.978E-01, start_alpha = 0.2543 $var = -1, S(qm) =  2.373E+00
+2012-12-17 13:19:51 : Obliczam S(q) dla phi = 0.3
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2978
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.271852962708397
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.35736
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.226544135590331
+2012-12-17 13:20:03 : RunRY: Done, fitted alfa =  3.018E-01, start_alpha = 0.2978 $var = -1, S(qm) =  5.696E+00
+2012-12-17 13:20:03 : ** Obliczam kolumne dla diam = 42.4890620491968**
+2012-12-17 13:20:03 : Obliczam S(q) dla phi = 1e-5
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.3018
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.275504446425099
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.36216
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.229587038687582
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.434592
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.191322532239652
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.5215104
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.159435443533043
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.62581248
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.132862869610869
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.750974976
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.110719058009058
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.9011699712
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0922658816742148
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 1.08140396544
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0768882347285123
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.849590750643983
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.064073528940427
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.68272993224673
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0533946074503558
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.3018
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.275504446425099
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.36216
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.229587038687582
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.434592
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.191322532239652
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.5215104
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.159435443533043
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.62581248
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.132862869610869
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.750974976
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.110719058009058
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.9011699712
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.0922658816742148
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 1.08140396544
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0768882347285123
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.565930172335356
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.064073528940427
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.0289891075808555
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0533946074503558
+2012-12-17 13:24:09 : RunRY: Done, fitted alfa =  4.940E-02, start_alpha = 0.0289891075808555 $var = -1, S(qm) =  2.127E+00
+2012-12-17 13:24:09 : Obliczam S(q) dla phi = 3.14382177153182e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.0494
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0450958239012587
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.05928
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0375798532510489
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.071136
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.0313165443758741
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.0853632
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.0260971203132284
+2012-12-17 13:24:37 : RunRY: Done, fitted alfa =  7.213E-02, start_alpha = 0.071136 $var = -1, S(qm) =  2.565E+00
+2012-12-17 13:24:37 : Obliczam S(q) dla phi = 9.88361533115748e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.07213
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0658453801214127
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.086556
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0548711501011773
+2012-12-17 13:24:51 : RunRY: Done, fitted alfa =  9.720E-02, start_alpha = 0.086556 $var = -1, S(qm) =  2.860E+00
+2012-12-17 13:24:51 : Obliczam S(q) dla phi = 0.000310723250595386
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.0972
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0887310543158369
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.11664
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0739425452631974
+2012-12-17 13:25:05 : RunRY: Done, fitted alfa =  1.273E-01, start_alpha = 0.11664 $var = -1, S(qm) =  3.086E+00
+2012-12-17 13:25:05 : Obliczam S(q) dla phi = 0.000976858520142912
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1273
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.116208469284013
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.15276
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0968403910700106
+2012-12-17 13:25:17 : RunRY: Done, fitted alfa =  1.605E-01, start_alpha = 0.15276 $var = -1, S(qm) =  3.029E+00
+2012-12-17 13:25:17 : Obliczam S(q) dla phi = 0.00307106908333164
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1605
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.146515784132632
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.1926
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.122096486777193
+2012-12-17 13:25:29 : RunRY: Done, fitted alfa =  2.007E-01, start_alpha = 0.1926 $var = -1, S(qm) =  2.836E+00
+2012-12-17 13:25:29 : Obliczam S(q) dla phi = 0.0096548938460563
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2007
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.183213195485478
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.24084
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.152677662904565
+2012-12-17 13:25:41 : RunRY: Done, fitted alfa =  2.478E-01, start_alpha = 0.24084 $var = -1, S(qm) =  2.607E+00
+2012-12-17 13:25:41 : Obliczam S(q) dla phi = 0.0303532654750604
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2478
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.226209416249634
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.29736
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.188507846874695
+2012-12-17 13:25:52 : RunRY: Done, fitted alfa =  2.994E-01, start_alpha = 0.2478 $var = -1, S(qm) =  2.565E+00
+2012-12-17 13:25:52 : Obliczam S(q) dla phi = 0.09542525683758
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2994
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.273313556195078
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.35928
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.227761296829232
+2012-12-17 13:26:04 : RunRY: Done, fitted alfa =  3.453E-01, start_alpha = 0.2994 $var = -1, S(qm) =  3.156E+00
+2012-12-17 13:26:04 : Obliczam S(q) dla phi = 0.3
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.3453
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.315214331844223
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.41436
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.262678609870186
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.497232
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.218898841558488
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.5966784
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.18241570129874
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.71601408
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.152013084415617
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.859216896
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.126677570346347
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 1.0310602752
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.10556464195529
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.601047621574253
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0879705349627413
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.623352566501126
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0733087791356177
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.778960030293092
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0610906492796814
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.3453
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.315214331844223
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.41436
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.262678609870186
+2012-12-17 13:27:56 : RunRY: Done, fitted alfa =  3.477E-01, start_alpha = 0.3453 $var = -1, S(qm) =  7.547E+00
+2012-12-17 13:27:56 : ** Obliczam kolumne dla diam = 65.1836344868839**
+2012-12-17 13:27:56 : Obliczam S(q) dla phi = 1e-5
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.3477
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.317405222074244
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.41724
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.264504351728537
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.500688
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.220420293107114
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.6008256
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.183683577589261
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.72099072
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.153069647991051
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.865188864
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.127558039992543
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 1.0382266368
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.106298366660452
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.102986634708941
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0885819722170435
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.320216454798356
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0738183101808696
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.812076522968709
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.061515258484058
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.3477
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.317405222074244
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.41724
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.264504351728537
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.500688
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.220420293107114
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.6008256
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.183683577589261
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.72099072
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.153069647991051
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.865188864
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.127558039992543
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 1.0382266368
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.106298366660452
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.0240754981059581
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.0885819722170435
+2012-12-17 13:31:26 : RunRY: Done, fitted alfa =  4.397E-02, start_alpha = 0.0240754981059581 $var = -1, S(qm) =  1.572E+00
+2012-12-17 13:31:26 : Obliczam S(q) dla phi = 3.14382177153182e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.04397
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0401389347558369
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.052764
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0334491122965308
+2012-12-17 13:31:45 : RunRY: Done, fitted alfa =  7.196E-02, start_alpha = 0.04397 $var = -1, S(qm) =  2.073E+00
+2012-12-17 13:31:45 : Obliczam S(q) dla phi = 9.88361533115748e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.07196
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0656901920634529
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.086352
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0547418267195441
+2012-12-17 13:32:02 : RunRY: Done, fitted alfa =  1.058E-01, start_alpha = 0.086352 $var = -1, S(qm) =  2.500E+00
+2012-12-17 13:32:02 : Obliczam S(q) dla phi = 0.000310723250595386
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1058
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0965817443067443
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.12696
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0804847869222869
+2012-12-17 13:32:19 : RunRY: Done, fitted alfa =  1.455E-01, start_alpha = 0.12696 $var = -1, S(qm) =  2.914E+00
+2012-12-17 13:32:19 : Obliczam S(q) dla phi = 0.000976858520142912
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1455
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.132822720195003
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.1746
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.110685600162502
+2012-12-17 13:32:33 : RunRY: Done, fitted alfa =  1.882E-01, start_alpha = 0.1746 $var = -1, S(qm) =  3.094E+00
+2012-12-17 13:32:33 : Obliczam S(q) dla phi = 0.00307106908333164
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1882
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.171802308870787
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.22584
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.143168590725656
+2012-12-17 13:32:47 : RunRY: Done, fitted alfa =  2.380E-01, start_alpha = 0.22584 $var = -1, S(qm) =  3.157E+00
+2012-12-17 13:32:47 : Obliczam S(q) dla phi = 0.0096548938460563
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.238
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.217263281143716
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.2856
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.18105273428643
+2012-12-17 13:32:59 : RunRY: Done, fitted alfa =  2.953E-01, start_alpha = 0.2856 $var = -1, S(qm) =  3.144E+00
+2012-12-17 13:32:59 : Obliczam S(q) dla phi = 0.0303532654750604
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2953
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.269570785385459
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.35436
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.224642321154549
+2012-12-17 13:33:11 : RunRY: Done, fitted alfa =  3.573E-01, start_alpha = 0.35436 $var = -1, S(qm) =  3.260E+00
+2012-12-17 13:33:11 : Obliczam S(q) dla phi = 0.09542525683758
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.3573
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.326168782994326
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.42876
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.271807319161939
+2012-12-17 13:33:27 : RunRY: Done, fitted alfa =  4.107E-01, start_alpha = 0.3573 $var = -1, S(qm) =  4.096E+00
+2012-12-17 13:33:27 : Obliczam S(q) dla phi = 0.3
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.4107
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.374916090612286
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.49284
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.312430075510239
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.591408
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.260358396258532
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.7096896
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.216965330215443
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.85162752
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.180804441846203
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 1.021953024
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.150670368205169
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.525603189133108
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.125558640170974
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.770444289082661
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.104632200142479
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.601375207072124
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0871935001187321
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.601900935871527
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0726612500989434
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.4107
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.374916090612286
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.49284
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.312430075510239
+2012-12-17 13:35:19 : RunRY: Done, fitted alfa =  4.127E-01, start_alpha = 0.4107 $var = -1, S(qm) =  9.307E+00
+2012-12-17 13:35:19 : ** Obliczam kolumne dla diam = 100**
+2012-12-17 13:35:19 : Obliczam S(q) dla phi = 1e-5
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.4127
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.376741832470637
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.49524
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.313951527058864
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.594288
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.261626272549053
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.7131456
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.218021893790878
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 0.85577472
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.181684911492398
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 1.026929664
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.151404092910332
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.403534068027511
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.126170077425277
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.492737743072212
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.10514173118773
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.427061673952267
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.0876181093231087
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.0281004800926894
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0730150911025906
+2012-12-17 14:12:08 : RunRY: Done, fitted alfa =  3.495E-02, start_alpha = 0.0281004800926894 $var = -1, S(qm) =  1.169E+00
+2012-12-17 14:12:08 : Obliczam S(q) dla phi = 3.14382177153182e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.03495
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0319048389746759
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.04194
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0265873658122299
+2012-12-17 14:12:25 : RunRY: Done, fitted alfa =  6.311E-02, start_alpha = 0.03495 $var = -1, S(qm) =  1.518E+00
+2012-12-17 14:12:25 : Obliczam S(q) dla phi = 9.88361533115748e-005
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.06311
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0576112843402517
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.075732
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0480094036168764
+2012-12-17 14:12:41 : RunRY: Done, fitted alfa =  1.041E-01, start_alpha = 0.075732 $var = -1, S(qm) =  1.999E+00
+2012-12-17 14:12:41 : Obliczam S(q) dla phi = 0.000310723250595386
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1041
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.0950298637271463
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.12492
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.0791915531059553
+2012-12-17 14:12:58 : RunRY: Done, fitted alfa =  1.566E-01, start_alpha = 0.12492 $var = -1, S(qm) =  2.507E+00
+2012-12-17 14:12:58 : Obliczam S(q) dla phi = 0.000976858520142912
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.1566
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.142955587508848
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.18792
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.119129656257374
+2012-12-17 14:13:15 : RunRY: Done, fitted alfa =  2.146E-01, start_alpha = 0.18792 $var = -1, S(qm) =  2.880E+00
+2012-12-17 14:13:15 : Obliczam S(q) dla phi = 0.00307106908333164
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2146
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.195902101401014
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.25752
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.163251751167512
+2012-12-17 14:13:29 : RunRY: Done, fitted alfa =  2.791E-01, start_alpha = 0.25752 $var = -1, S(qm) =  3.158E+00
+2012-12-17 14:13:29 : Obliczam S(q) dla phi = 0.0096548938460563
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.2791
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.25478227633282
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.33492
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.212318563610683
+2012-12-17 14:13:44 : RunRY: Done, fitted alfa =  3.510E-01, start_alpha = 0.33492 $var = -1, S(qm) =  3.378E+00
+2012-12-17 14:13:44 : Obliczam S(q) dla phi = 0.0303532654750604
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.351
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.320417696140522
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.4212
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.267014746783769
+2012-12-17 14:13:56 : RunRY: Done, fitted alfa =  4.280E-01, start_alpha = 0.4212 $var = -1, S(qm) =  3.722E+00
+2012-12-17 14:13:56 : Obliczam S(q) dla phi = 0.09542525683758
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.428
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.390708757687019
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.5136
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.325590631405849
+2012-12-17 14:14:12 : RunRY: Done, fitted alfa =  4.949E-01, start_alpha = 0.428 $var = -1, S(qm) =  4.796E+00
+2012-12-17 14:14:12 : Obliczam S(q) dla phi = 0.3
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.4949
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.451779822848845
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.59388
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.37648318570737
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.712656
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.313735988089475
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.8551872
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.26144665674123
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 1.02622464
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.217872213951025
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.404467899352312
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.181560178292521
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.724201241973788
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.1513001485771
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.613971995189786
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.126083457147584
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.0939808592665941
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.105069547622986
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.646203263895586
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0875579563524887
+RunRY - Iteracja 0 [CORE 0]: ??? = -1, alpha = 0.4949
+RunRY - Iteracja 1 [CORE 1]: ??? = -1, alpha = 0.451779822848845
+RunRY - Iteracja 2 [CORE 2]: ??? = -1, alpha = 0.59388
+RunRY - Iteracja 3 [CORE 3]: ??? = -1, alpha = 0.37648318570737
+RunRY - Iteracja 4 [CORE 0]: ??? = -1, alpha = 0.712656
+RunRY - Iteracja 5 [CORE 1]: ??? = -1, alpha = 0.313735988089475
+RunRY - Iteracja 6 [CORE 2]: ??? = -1, alpha = 0.8551872
+RunRY - Iteracja 7 [CORE 3]: ??? = -1, alpha = 0.26144665674123
+RunRY - Iteracja 8 [CORE 0]: ??? = -1, alpha = 1.02622464
+RunRY - Iteracja 9 [CORE 1]: ??? = -1, alpha = 0.217872213951025
+RunRY - Iteracja 10 [CORE 2]: ??? = -1, alpha = 0.816365270409733
+RunRY - Iteracja 11 [CORE 3]: ??? = -1, alpha = 0.181560178292521
+RunRY - Iteracja 12 [CORE 0]: ??? = -1, alpha = 0.449002308771014
+RunRY - Iteracja 13 [CORE 1]: ??? = -1, alpha = 0.1513001485771
+RunRY - Iteracja 14 [CORE 2]: ??? = -1, alpha = 0.788673273753375
+RunRY - Iteracja 15 [CORE 3]: ??? = -1, alpha = 0.126083457147584
+RunRY - Iteracja 16 [CORE 0]: ??? = -1, alpha = 0.713883316610008
+RunRY - Iteracja 17 [CORE 1]: ??? = -1, alpha = 0.105069547622986
+RunRY - Iteracja 18 [CORE 2]: ??? = -1, alpha = 0.126401219982654
+RunRY - Iteracja 19 [CORE 3]: ??? = -1, alpha = 0.0875579563524887
+2012-12-17 14:18:22 : RunRY: I tried to fit alpha 32 times and still can't do it! Skipping fit.
+2012-12-17 14:18:22 : Nie udalo sie obliczyc S(q) dla phi = 0.3!

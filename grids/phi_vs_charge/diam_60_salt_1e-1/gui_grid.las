@@ -1,0 +1,10 @@
+$max1_edit = 0.3
+$min1_edit = 1e-5
+$min2_edit = 200
+$max2_edit = 10000
+$ile_edit = 12
+$start_diam_edit = 60
+$start_charge_edit = start_Z
+$start_phi_edit = start_phi
+$start_salt_edit = 0.1
+$ile2_edit = 12

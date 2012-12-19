@@ -1,0 +1,1032 @@
+2012-04-19 10:04:02 : Próbkowanie S(q) w 2D dla par. startowych: d=40, Z=start_Z phi=start_phi salt=0.001
+2012-04-19 10:04:02 : X: phi od 1e-5 do 0.3, Y: Z od 200 do 10000
+2012-04-19 10:04:02 : ** Obliczam kolumne dla phi = 1e-5**
+2012-04-19 10:04:02 : Obliczam S(q) dla Z = 200
+2012-04-19 10:04:02 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.2
+RunRY - Iteracja: ??? = -, alpha = 0.182574185835055
+RunRY - Iteracja: ??? = -, alpha = 0.24
+RunRY - Iteracja: ??? = -, alpha = 0.152145154862546
+RunRY - Iteracja: ??? = -, alpha = 0.288
+RunRY - Iteracja: ??? = -, alpha = 0.126787629052122
+RunRY - Iteracja: ??? = -, alpha = 0.3456
+RunRY - Iteracja: ??? = -, alpha = 0.105656357543435
+RunRY - Iteracja: ??? = -, alpha = 0.41472
+RunRY - Iteracja: ??? = -, alpha = 0.088046964619529
+RunRY - Iteracja: ??? = -, alpha = 0.497664
+RunRY - Iteracja: ??? = -, alpha = 0.933677221648395
+RunRY - Iteracja: ??? = -, alpha = 0.0498208058997989
+RunRY - Done: Dopasowanie udane, alfa =  7.626E-02
+2012-04-19 10:06:16 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 10:06:16 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  7.626E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0696155370589066
+RunRY - Iteracja: ??? = -, alpha = 0.091512
+RunRY - Iteracja: ??? = -, alpha = 0.0580129475490888
+RunRY - Done: Dopasowanie udane, alfa =  6.464E-02
+2012-04-19 10:06:53 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 10:06:53 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  6.464E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0590079768618899
+RunRY - Iteracja: ??? = -, alpha = 0.077568
+RunRY - Iteracja: ??? = -, alpha = 0.0491733140515749
+RunRY - Done: Dopasowanie udane, alfa =  5.390E-02
+2012-04-19 10:07:31 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 10:07:31 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  5.390E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0492037430825474
+RunRY - Iteracja: ??? = -, alpha = 0.06468
+RunRY - Iteracja: ??? = -, alpha = 0.0410031192354562
+RunRY - Iteracja: ??? = -, alpha = 0.077616
+RunRY - Iteracja: ??? = -, alpha = 0.0341692660295468
+RunRY - Iteracja: ??? = -, alpha = 0.0931392
+RunRY - Iteracja: ??? = -, alpha = 0.0284743883579557
+RunRY - Iteracja: ??? = -, alpha = 0.11176704
+RunRY - Iteracja: ??? = -, alpha = 0.0237286569649631
+RunRY - Iteracja: ??? = -, alpha = 0.134120448
+RunRY - Iteracja: ??? = -, alpha = 0.406030572252348
+RunRY - Iteracja: ??? = -, alpha = 0.628782113548368
+RunRY - Iteracja: ??? = -, alpha = 0.765550308628008
+RunRY - Iteracja: ??? = -, alpha = 0.720228765392676
+RunRY - Iteracja: ??? = -, alpha = 0.278331566601992
+RunRY - Iteracja: ??? = -, alpha = 0.273435626877472
+RunRY - Iteracja: ??? = -, alpha = 0.06468
+RunRY - Iteracja: ??? = -, alpha = 0.0410031192354562
+RunRY - Iteracja: ??? = -, alpha = 0.077616
+RunRY - Iteracja: ??? = -, alpha = 0.0341692660295468
+RunRY - Iteracja: ??? = -, alpha = 0.0931392
+RunRY - Iteracja: ??? = -, alpha = 0.0284743883579557
+RunRY - Iteracja: ??? = -, alpha = 0.11176704
+RunRY - Iteracja: ??? = -, alpha = 0.0237286569649631
+RunRY - Iteracja: ??? = -, alpha = 0.134120448
+RunRY - Iteracja: ??? = -, alpha = 0.832170094363391
+RunRY - Iteracja: ??? = -, alpha = 0.52293568267487
+RunRY - Iteracja: ??? = -, alpha = 0.28782170265913
+RunRY - Iteracja: ??? = -, alpha = 0.494194499915466
+RunRY - Iteracja: ??? = -, alpha = 0.204316123155877
+2012-04-19 10:13:48 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 10:13:48 : Nie udalo sie obliczyc S(q) dla Z = 867.248879282804!
+2012-04-19 10:13:48 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 10:13:48 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.204316123155877
+RunRY - Iteracja: ??? = -, alpha = 0.186514249190796
+RunRY - Iteracja: ??? = -, alpha = 0.245179347787052
+RunRY - Iteracja: ??? = -, alpha = 0.15542854099233
+RunRY - Iteracja: ??? = -, alpha = 0.294215217344463
+RunRY - Iteracja: ??? = -, alpha = 0.129523784160275
+RunRY - Iteracja: ??? = -, alpha = 0.353058260813355
+RunRY - Iteracja: ??? = -, alpha = 0.107936486800229
+RunRY - Iteracja: ??? = -, alpha = 0.423669912976027
+RunRY - Iteracja: ??? = -, alpha = 0.0899470723335242
+RunRY - Iteracja: ??? = -, alpha = 0.508403895571232
+RunRY - Iteracja: ??? = -, alpha = 0.998779296409339
+RunRY - Iteracja: ??? = -, alpha = 0.838283786550164
+RunRY - Iteracja: ??? = -, alpha = 0.979227220173925
+RunRY - Iteracja: ??? = -, alpha = 0.407490672543645
+RunRY - Iteracja: ??? = -, alpha = 0.467142739798874
+RunRY - Iteracja: ??? = -, alpha = 0.996898523764685
+RunRY - Iteracja: ??? = -, alpha = 0.245179347787052
+RunRY - Iteracja: ??? = -, alpha = 0.15542854099233
+RunRY - Iteracja: ??? = -, alpha = 0.294215217344463
+RunRY - Iteracja: ??? = -, alpha = 0.129523784160275
+RunRY - Iteracja: ??? = -, alpha = 0.353058260813355
+RunRY - Iteracja: ??? = -, alpha = 0.107936486800229
+RunRY - Iteracja: ??? = -, alpha = 0.423669912976027
+RunRY - Iteracja: ??? = -, alpha = 0.0899470723335242
+RunRY - Iteracja: ??? = -, alpha = 0.508403895571232
+RunRY - Iteracja: ??? = -, alpha = 0.03744488931261
+RunRY - Iteracja: ??? = -, alpha = 0.627919730497524
+RunRY - Iteracja: ??? = -, alpha = 0.0931877586990595
+RunRY - Iteracja: ??? = -, alpha = 0.949549151584506
+RunRY - Iteracja: ??? = -, alpha = 0.352694791043177
+2012-04-19 10:21:20 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 10:21:20 : Nie udalo sie obliczyc S(q) dla Z = 1414.2135623731!
+2012-04-19 10:21:20 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 10:21:20 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.352694791043177
+RunRY - Iteracja: ??? = -, alpha = 0.321964821614865
+RunRY - Iteracja: ??? = -, alpha = 0.423233749251812
+RunRY - Iteracja: ??? = -, alpha = 0.268304018012388
+RunRY - Iteracja: ??? = -, alpha = 0.507880499102175
+RunRY - Iteracja: ??? = -, alpha = 0.22358668167699
+RunRY - Iteracja: ??? = -, alpha = 0.60945659892261
+RunRY - Iteracja: ??? = -, alpha = 0.186322234730825
+RunRY - Iteracja: ??? = -, alpha = 0.731347918707132
+RunRY - Iteracja: ??? = -, alpha = 0.155268528942354
+RunRY - Iteracja: ??? = -, alpha = 0.877617502448558
+RunRY - Iteracja: ??? = -, alpha = 0.234549056971446
+RunRY - Iteracja: ??? = -, alpha = 0.921065300703049
+RunRY - Iteracja: ??? = -, alpha = 0.217909799655899
+RunRY - Iteracja: ??? = -, alpha = 0.497177213430405
+RunRY - Iteracja: ??? = -, alpha = 0.231566399103031
+RunRY - Iteracja: ??? = -, alpha = 0.882284892024472
+RunRY - Iteracja: ??? = -, alpha = 0.423233749251812
+RunRY - Iteracja: ??? = -, alpha = 0.268304018012388
+RunRY - Iteracja: ??? = -, alpha = 0.507880499102175
+RunRY - Iteracja: ??? = -, alpha = 0.22358668167699
+RunRY - Iteracja: ??? = -, alpha = 0.60945659892261
+RunRY - Iteracja: ??? = -, alpha = 0.186322234730825
+RunRY - Iteracja: ??? = -, alpha = 0.731347918707132
+RunRY - Iteracja: ??? = -, alpha = 0.155268528942354
+RunRY - Iteracja: ??? = -, alpha = 0.877617502448558
+RunRY - Iteracja: ??? = -, alpha = 0.535905848257244
+RunRY - Iteracja: ??? = -, alpha = 0.434502754360437
+RunRY - Iteracja: ??? = -, alpha = 0.181630520615727
+RunRY - Iteracja: ??? = -, alpha = 0.598039738833904
+RunRY - Iteracja: ??? = -, alpha = 0.776660748757422
+2012-04-19 10:29:17 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 10:29:17 : Nie udalo sie obliczyc S(q) dla Z = 2306.14307815994!
+2012-04-19 10:29:17 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 10:29:17 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.776660748757422
+RunRY - Iteracja: ??? = -, alpha = 0.708991019372154
+RunRY - Iteracja: ??? = -, alpha = 0.931992898508906
+RunRY - Iteracja: ??? = -, alpha = 0.590825849476795
+RunRY - Iteracja: ??? = -, alpha = 0.645003658952191
+RunRY - Iteracja: ??? = -, alpha = 0.492354874563996
+RunRY - Iteracja: ??? = -, alpha = 0.642254509497434
+RunRY - Iteracja: ??? = -, alpha = 0.41029572880333
+RunRY - Iteracja: ??? = -, alpha = 0.239647400099784
+RunRY - Iteracja: ??? = -, alpha = 0.341913107336108
+RunRY - Iteracja: ??? = -, alpha = 0.254603827372193
+RunRY - Iteracja: ??? = -, alpha = 0.0736981790978462
+RunRY - Iteracja: ??? = -, alpha = 0.335065219551325
+RunRY - Iteracja: ??? = -, alpha = 0.682952818227932
+RunRY - Iteracja: ??? = -, alpha = 0.673757341923192
+RunRY - Iteracja: ??? = -, alpha = 0.267343607265502
+RunRY - Iteracja: ??? = -, alpha = 0.69955554138869
+RunRY - Iteracja: ??? = -, alpha = 0.931992898508906
+RunRY - Iteracja: ??? = -, alpha = 0.590825849476795
+RunRY - Iteracja: ??? = -, alpha = 0.43800522107631
+RunRY - Iteracja: ??? = -, alpha = 0.492354874563996
+RunRY - Iteracja: ??? = -, alpha = 0.0341363935731351
+RunRY - Iteracja: ??? = -, alpha = 0.41029572880333
+RunRY - Iteracja: ??? = -, alpha = 0.219800122315064
+RunRY - Iteracja: ??? = -, alpha = 0.341913107336108
+RunRY - Iteracja: ??? = -, alpha = 0.623327204491943
+RunRY - Iteracja: ??? = -, alpha = 0.878186440095305
+RunRY - Iteracja: ??? = -, alpha = 0.9514573472552
+RunRY - Iteracja: ??? = -, alpha = 0.578761490760371
+RunRY - Iteracja: ??? = -, alpha = 0.681876176502556
+RunRY - Iteracja: ??? = -, alpha = 0.0412708991207182
+2012-04-19 10:37:13 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 10:37:13 : Nie udalo sie obliczyc S(q) dla Z = 3760.60309308639!
+2012-04-19 10:37:13 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 10:37:13 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.0412708991207182
+RunRY - Iteracja: ??? = -, alpha = 0.0376750040282291
+RunRY - Iteracja: ??? = -, alpha = 0.0495250789448618
+RunRY - Iteracja: ??? = -, alpha = 0.031395836690191
+RunRY - Iteracja: ??? = -, alpha = 0.0594300947338342
+RunRY - Iteracja: ??? = -, alpha = 0.0261631972418258
+RunRY - Iteracja: ??? = -, alpha = 0.071316113680601
+RunRY - Iteracja: ??? = -, alpha = 0.0218026643681882
+RunRY - Iteracja: ??? = -, alpha = 0.0855793364167212
+RunRY - Iteracja: ??? = -, alpha = 0.0181688869734901
+RunRY - Done: Dopasowanie udane, alfa =  1.862E-02
+2012-04-19 10:38:53 : Obliczam S(q) dla Z = 10000
+2012-04-19 10:38:53 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.862E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0169976567012437
+RunRY - Iteracja: ??? = -, alpha = 0.022344
+RunRY - Iteracja: ??? = -, alpha = 0.014164713917703
+RunRY - Done: Dopasowanie udane, alfa =  1.580E-02
+2012-04-19 10:39:29 : ** Obliczam kolumne dla phi = 3.62777343966308e-005**
+2012-04-19 10:39:29 : Obliczam S(q) dla Z = 200
+2012-04-19 10:39:29 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.580E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0144233606809694
+RunRY - Iteracja: ??? = -, alpha = 0.01896
+RunRY - Iteracja: ??? = -, alpha = 0.0120194672341411
+RunRY - Iteracja: ??? = -, alpha = 0.022752
+RunRY - Iteracja: ??? = -, alpha = 0.0100162226951176
+RunRY - Iteracja: ??? = -, alpha = 0.0273024
+RunRY - Iteracja: ??? = -, alpha = 0.00834685224593135
+RunRY - Iteracja: ??? = -, alpha = 0.03276288
+RunRY - Iteracja: ??? = -, alpha = 0.00695571020494279
+RunRY - Iteracja: ??? = -, alpha = 0.039315456
+RunRY - Iteracja: ??? = -, alpha = 0.515210635727271
+RunRY - Iteracja: ??? = -, alpha = 0.119397894479334
+RunRY - Iteracja: ??? = -, alpha = 0.129809949779883
+RunRY - Iteracja: ??? = -, alpha = 0.868135816883296
+RunRY - Iteracja: ??? = -, alpha = 0.167769305873662
+RunRY - Iteracja: ??? = -, alpha = 0.00161443604156375
+RunRY - Iteracja: ??? = -, alpha = 0.01896
+RunRY - Iteracja: ??? = -, alpha = 0.0120194672341411
+RunRY - Iteracja: ??? = -, alpha = 0.022752
+RunRY - Iteracja: ??? = -, alpha = 0.0100162226951176
+RunRY - Iteracja: ??? = -, alpha = 0.0273024
+RunRY - Iteracja: ??? = -, alpha = 0.00834685224593135
+RunRY - Iteracja: ??? = -, alpha = 0.03276288
+RunRY - Iteracja: ??? = -, alpha = 0.00695571020494279
+RunRY - Iteracja: ??? = -, alpha = 0.039315456
+RunRY - Iteracja: ??? = -, alpha = 0.932429813314229
+RunRY - Iteracja: ??? = -, alpha = 0.3624086312484
+RunRY - Iteracja: ??? = -, alpha = 0.394510624697432
+RunRY - Iteracja: ??? = -, alpha = 0.385219839867204
+RunRY - Iteracja: ??? = -, alpha = 0.502482021925971
+2012-04-19 10:47:09 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 10:47:09 : Nie udalo sie obliczyc S(q) dla Z = 200!
+2012-04-19 10:47:09 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 10:47:09 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.502482021925971
+RunRY - Iteracja: ??? = -, alpha = 0.458701230249433
+RunRY - Iteracja: ??? = -, alpha = 0.602978426311165
+RunRY - Iteracja: ??? = -, alpha = 0.382251025207861
+RunRY - Iteracja: ??? = -, alpha = 0.723574111573398
+RunRY - Iteracja: ??? = -, alpha = 0.318542521006551
+RunRY - Iteracja: ??? = -, alpha = 0.868288933888078
+RunRY - Iteracja: ??? = -, alpha = 0.265452100838792
+RunRY - Iteracja: ??? = -, alpha = 1.04194672066569
+RunRY - Iteracja: ??? = -, alpha = 0.221210084032327
+RunRY - Iteracja: ??? = -, alpha = 0.377607221482322
+RunRY - Iteracja: ??? = -, alpha = 0.0288647916167974
+RunRY - Iteracja: ??? = -, alpha = 0.187032411806285
+RunRY - Iteracja: ??? = -, alpha = 0.750098501797765
+RunRY - Iteracja: ??? = -, alpha = 0.168809312861413
+RunRY - Iteracja: ??? = -, alpha = 0.223796359729022
+RunRY - Iteracja: ??? = -, alpha = 0.0312580436002463
+RunRY - Iteracja: ??? = -, alpha = 0.602978426311165
+RunRY - Iteracja: ??? = -, alpha = 0.382251025207861
+RunRY - Iteracja: ??? = -, alpha = 0.723574111573398
+RunRY - Iteracja: ??? = -, alpha = 0.318542521006551
+RunRY - Iteracja: ??? = -, alpha = 0.868288933888078
+RunRY - Iteracja: ??? = -, alpha = 0.265452100838792
+RunRY - Iteracja: ??? = -, alpha = 1.04194672066569
+RunRY - Iteracja: ??? = -, alpha = 0.221210084032327
+RunRY - Iteracja: ??? = -, alpha = 0.090969837969169
+RunRY - Iteracja: ??? = -, alpha = 0.405041116988286
+RunRY - Iteracja: ??? = -, alpha = 0.970408673631027
+RunRY - Iteracja: ??? = -, alpha = 0.204839448444545
+RunRY - Iteracja: ??? = -, alpha = 0.880370660685003
+RunRY - Iteracja: ??? = -, alpha = 0.475072686327621
+2012-04-19 10:55:06 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 10:55:06 : Nie udalo sie obliczyc S(q) dla Z = 326.137881790662!
+2012-04-19 10:55:06 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 10:55:06 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.475072686327621
+RunRY - Iteracja: ??? = -, alpha = 0.43368004459369
+RunRY - Iteracja: ??? = -, alpha = 0.570087223593145
+RunRY - Iteracja: ??? = -, alpha = 0.361400037161409
+RunRY - Iteracja: ??? = -, alpha = 0.684104668311774
+RunRY - Iteracja: ??? = -, alpha = 0.301166697634507
+RunRY - Iteracja: ??? = -, alpha = 0.820925601974129
+RunRY - Iteracja: ??? = -, alpha = 0.250972248028756
+RunRY - Iteracja: ??? = -, alpha = 0.985110722368955
+RunRY - Iteracja: ??? = -, alpha = 0.209143540023963
+RunRY - Iteracja: ??? = -, alpha = 0.245459947967902
+RunRY - Iteracja: ??? = -, alpha = 0.28458617720753
+RunRY - Iteracja: ??? = -, alpha = 0.777484886813909
+RunRY - Iteracja: ??? = -, alpha = 0.785592726431787
+RunRY - Iteracja: ??? = -, alpha = 0.238430560799316
+RunRY - Iteracja: ??? = -, alpha = 0.958842476597056
+RunRY - Iteracja: ??? = -, alpha = 0.367748704273254
+RunRY - Iteracja: ??? = -, alpha = 0.570087223593145
+RunRY - Iteracja: ??? = -, alpha = 0.361400037161409
+RunRY - Iteracja: ??? = -, alpha = 0.684104668311774
+RunRY - Iteracja: ??? = -, alpha = 0.301166697634507
+RunRY - Iteracja: ??? = -, alpha = 0.820925601974129
+RunRY - Iteracja: ??? = -, alpha = 0.250972248028756
+RunRY - Iteracja: ??? = -, alpha = 0.985110722368955
+RunRY - Iteracja: ??? = -, alpha = 0.209143540023963
+RunRY - Iteracja: ??? = -, alpha = 0.0388990498613566
+RunRY - Iteracja: ??? = -, alpha = 0.776640343014151
+RunRY - Iteracja: ??? = -, alpha = 0.462836638092995
+RunRY - Iteracja: ??? = -, alpha = 0.358036145102233
+RunRY - Iteracja: ??? = -, alpha = 0.0774057814851403
+RunRY - Iteracja: ??? = -, alpha = 0.732405841117725
+2012-04-19 11:03:03 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 11:03:03 : Nie udalo sie obliczyc S(q) dla Z = 531.829589694499!
+2012-04-19 11:03:03 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 11:03:03 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.732405841117725
+RunRY - Iteracja: ??? = -, alpha = 0.668592000714538
+RunRY - Iteracja: ??? = -, alpha = 0.87888700934127
+RunRY - Iteracja: ??? = -, alpha = 0.557160000595448
+RunRY - Iteracja: ??? = -, alpha = 1.05466441120952
+RunRY - Iteracja: ??? = -, alpha = 0.464300000496207
+RunRY - Iteracja: ??? = -, alpha = 0.482075054664165
+RunRY - Iteracja: ??? = -, alpha = 0.386916667080172
+RunRY - Iteracja: ??? = -, alpha = 0.590795741882175
+RunRY - Iteracja: ??? = -, alpha = 0.322430555900144
+RunRY - Iteracja: ??? = -, alpha = 0.951448777457699
+RunRY - Iteracja: ??? = -, alpha = 0.351647454313934
+RunRY - Iteracja: ??? = -, alpha = 0.360752421198413
+RunRY - Iteracja: ??? = -, alpha = 0.529242181684822
+RunRY - Iteracja: ??? = -, alpha = 0.603419793536887
+RunRY - Iteracja: ??? = -, alpha = 0.694839961593971
+RunRY - Iteracja: ??? = -, alpha = 0.786915303440765
+RunRY - Iteracja: ??? = -, alpha = 0.87888700934127
+RunRY - Iteracja: ??? = -, alpha = 0.557160000595448
+RunRY - Iteracja: ??? = -, alpha = 1.05466441120952
+RunRY - Iteracja: ??? = -, alpha = 0.464300000496207
+RunRY - Iteracja: ??? = -, alpha = 0.498645837418735
+RunRY - Iteracja: ??? = -, alpha = 0.386916667080172
+RunRY - Iteracja: ??? = -, alpha = 0.274191752076149
+RunRY - Iteracja: ??? = -, alpha = 0.322430555900144
+RunRY - Iteracja: ??? = -, alpha = 0.0951474637258798
+RunRY - Iteracja: ??? = -, alpha = 0.722379954764619
+RunRY - Iteracja: ??? = -, alpha = 0.821251640561968
+RunRY - Iteracja: ??? = -, alpha = 0.896115267649293
+RunRY - Iteracja: ??? = -, alpha = 0.719303945312276
+RunRY - Iteracja: ??? = -, alpha = 0.523386879824102
+2012-04-19 11:10:59 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 11:10:59 : Nie udalo sie obliczyc S(q) dla Z = 867.248879282804!
+2012-04-19 11:10:59 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 11:10:59 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.523386879824102
+RunRY - Iteracja: ??? = -, alpha = 0.477784667303177
+RunRY - Iteracja: ??? = -, alpha = 0.628064255788922
+RunRY - Iteracja: ??? = -, alpha = 0.398153889419314
+RunRY - Iteracja: ??? = -, alpha = 0.753677106946707
+RunRY - Iteracja: ??? = -, alpha = 0.331794907849429
+RunRY - Iteracja: ??? = -, alpha = 0.904412528336048
+RunRY - Iteracja: ??? = -, alpha = 0.27649575654119
+RunRY - Iteracja: ??? = -, alpha = 1.08529503400326
+RunRY - Iteracja: ??? = -, alpha = 0.230413130450992
+RunRY - Iteracja: ??? = -, alpha = 0.220139068551362
+RunRY - Iteracja: ??? = -, alpha = 0.475502192275599
+RunRY - Iteracja: ??? = -, alpha = 0.808510027360171
+RunRY - Iteracja: ??? = -, alpha = 0.59143262822181
+RunRY - Iteracja: ??? = -, alpha = 0.0975461313501
+RunRY - Iteracja: ??? = -, alpha = 0.302908950019628
+RunRY - Iteracja: ??? = -, alpha = 0.970290448749438
+RunRY - Iteracja: ??? = -, alpha = 0.628064255788922
+RunRY - Iteracja: ??? = -, alpha = 0.398153889419314
+RunRY - Iteracja: ??? = -, alpha = 0.753677106946707
+RunRY - Iteracja: ??? = -, alpha = 0.331794907849429
+RunRY - Iteracja: ??? = -, alpha = 0.904412528336048
+RunRY - Iteracja: ??? = -, alpha = 0.27649575654119
+RunRY - Iteracja: ??? = -, alpha = 1.08529503400326
+RunRY - Iteracja: ??? = -, alpha = 0.230413130450992
+RunRY - Iteracja: ??? = -, alpha = 0.948759749066085
+RunRY - Iteracja: ??? = -, alpha = 0.909968489315361
+RunRY - Iteracja: ??? = -, alpha = 0.457336919382215
+RunRY - Iteracja: ??? = -, alpha = 0.0987064132932574
+RunRY - Iteracja: ??? = -, alpha = 0.179783378494903
+RunRY - Iteracja: ??? = -, alpha = 0.928393641253933
+2012-04-19 11:18:56 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 11:18:56 : Nie udalo sie obliczyc S(q) dla Z = 1414.2135623731!
+2012-04-19 11:18:56 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 11:18:56 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.928393641253933
+RunRY - Iteracja: ??? = -, alpha = 0.847503565931896
+RunRY - Iteracja: ??? = -, alpha = 0.240948534570634
+RunRY - Iteracja: ??? = -, alpha = 0.706252971609914
+RunRY - Iteracja: ??? = -, alpha = 0.410170721122995
+RunRY - Iteracja: ??? = -, alpha = 0.588544143008262
+RunRY - Iteracja: ??? = -, alpha = 0.652177456300706
+RunRY - Iteracja: ??? = -, alpha = 0.490453452506885
+RunRY - Iteracja: ??? = -, alpha = 0.848742020083591
+RunRY - Iteracja: ??? = -, alpha = 0.408711210422404
+RunRY - Iteracja: ??? = -, alpha = 0.233992570778355
+RunRY - Iteracja: ??? = -, alpha = 0.184514360735193
+RunRY - Iteracja: ??? = -, alpha = 0.460695601068437
+RunRY - Iteracja: ??? = -, alpha = 0.468252500053495
+RunRY - Iteracja: ??? = -, alpha = 0.334984553745016
+RunRY - Iteracja: ??? = -, alpha = 0.494504960486665
+RunRY - Iteracja: ??? = -, alpha = 0.425951556069776
+RunRY - Iteracja: ??? = -, alpha = 0.331999913789332
+RunRY - Iteracja: ??? = -, alpha = 0.706252971609914
+RunRY - Iteracja: ??? = -, alpha = 0.208261169260368
+RunRY - Iteracja: ??? = -, alpha = 0.588544143008262
+RunRY - Iteracja: ??? = -, alpha = 0.680030482355505
+RunRY - Iteracja: ??? = -, alpha = 0.490453452506885
+RunRY - Iteracja: ??? = -, alpha = 0.75600871979259
+RunRY - Iteracja: ??? = -, alpha = 0.408711210422404
+RunRY - Iteracja: ??? = -, alpha = 0.372492481954396
+RunRY - Iteracja: ??? = -, alpha = 0.443823408335447
+RunRY - Iteracja: ??? = -, alpha = 0.705588662065566
+RunRY - Iteracja: ??? = -, alpha = 0.464407170889899
+RunRY - Iteracja: ??? = -, alpha = 0.869646561797708
+RunRY - Iteracja: ??? = -, alpha = 0.150614182697609
+2012-04-19 11:26:53 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 11:26:53 : Nie udalo sie obliczyc S(q) dla Z = 2306.14307815994!
+2012-04-19 11:26:53 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 11:26:53 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.150614182697609
+RunRY - Iteracja: ??? = -, alpha = 0.137491308906141
+RunRY - Iteracja: ??? = -, alpha = 0.180737019237131
+RunRY - Iteracja: ??? = -, alpha = 0.114576090755118
+RunRY - Iteracja: ??? = -, alpha = 0.216884423084557
+RunRY - Iteracja: ??? = -, alpha = 0.0954800756292648
+RunRY - Iteracja: ??? = -, alpha = 0.260261307701468
+RunRY - Iteracja: ??? = -, alpha = 0.079566729691054
+RunRY - Iteracja: ??? = -, alpha = 0.312313569241762
+RunRY - Iteracja: ??? = -, alpha = 0.0663056080758783
+RunRY - Iteracja: ??? = -, alpha = 0.374776283090114
+RunRY - Iteracja: ??? = -, alpha = 0.702313813380897
+RunRY - Iteracja: ??? = -, alpha = 0.0112809252459556
+RunRY - Iteracja: ??? = -, alpha = 0.394163700286299
+RunRY - Iteracja: ??? = -, alpha = 0.653685985365883
+RunRY - Iteracja: ??? = -, alpha = 0.135682556545362
+RunRY - Iteracja: ??? = -, alpha = 0.781509530963376
+RunRY - Iteracja: ??? = -, alpha = 0.180737019237131
+RunRY - Iteracja: ??? = -, alpha = 0.114576090755118
+RunRY - Iteracja: ??? = -, alpha = 0.216884423084557
+RunRY - Iteracja: ??? = -, alpha = 0.0954800756292648
+RunRY - Iteracja: ??? = -, alpha = 0.260261307701468
+RunRY - Iteracja: ??? = -, alpha = 0.079566729691054
+RunRY - Iteracja: ??? = -, alpha = 0.312313569241762
+RunRY - Iteracja: ??? = -, alpha = 0.0663056080758783
+RunRY - Iteracja: ??? = -, alpha = 0.374776283090114
+RunRY - Iteracja: ??? = -, alpha = 0.249891352839768
+RunRY - Iteracja: ??? = -, alpha = 0.359768359456211
+RunRY - Iteracja: ??? = -, alpha = 0.259687259793282
+RunRY - Iteracja: ??? = -, alpha = 0.243786429287866
+RunRY - Iteracja: ??? = -, alpha = 0.268652779981494
+2012-04-19 11:34:49 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 11:34:49 : Nie udalo sie obliczyc S(q) dla Z = 3760.60309308639!
+2012-04-19 11:34:49 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 11:34:49 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.268652779981494
+RunRY - Iteracja: ??? = -, alpha = 0.245245312887228
+RunRY - Iteracja: ??? = -, alpha = 0.322383335977793
+RunRY - Iteracja: ??? = -, alpha = 0.20437109407269
+RunRY - Iteracja: ??? = -, alpha = 0.386860003173351
+RunRY - Iteracja: ??? = -, alpha = 0.170309245060575
+RunRY - Iteracja: ??? = -, alpha = 0.464232003808022
+RunRY - Iteracja: ??? = -, alpha = 0.141924370883812
+RunRY - Iteracja: ??? = -, alpha = 0.557078404569626
+RunRY - Iteracja: ??? = -, alpha = 0.118270309069844
+RunRY - Iteracja: ??? = -, alpha = 0.668494085483551
+RunRY - Iteracja: ??? = -, alpha = 0.807654493255541
+RunRY - Iteracja: ??? = -, alpha = 0.144889583578333
+RunRY - Iteracja: ??? = -, alpha = 0.488403020659462
+RunRY - Iteracja: ??? = -, alpha = 0.429468546528369
+RunRY - Iteracja: ??? = -, alpha = 0.233877333346754
+RunRY - Iteracja: ??? = -, alpha = 0.0323094052728266
+RunRY - Iteracja: ??? = -, alpha = 0.322383335977793
+RunRY - Iteracja: ??? = -, alpha = 0.20437109407269
+RunRY - Iteracja: ??? = -, alpha = 0.386860003173351
+RunRY - Iteracja: ??? = -, alpha = 0.170309245060575
+RunRY - Iteracja: ??? = -, alpha = 0.464232003808022
+RunRY - Iteracja: ??? = -, alpha = 0.141924370883812
+RunRY - Iteracja: ??? = -, alpha = 0.557078404569626
+RunRY - Iteracja: ??? = -, alpha = 0.118270309069844
+RunRY - Iteracja: ??? = -, alpha = 0.668494085483551
+RunRY - Iteracja: ??? = -, alpha = 0.562025581952184
+RunRY - Iteracja: ??? = -, alpha = 0.14457086334005
+RunRY - Iteracja: ??? = -, alpha = 0.912351362872869
+RunRY - Iteracja: ??? = -, alpha = 0.910949202720076
+RunRY - Iteracja: ??? = -, alpha = 0.511526613496244
+2012-04-19 11:42:49 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 11:42:49 : Nie udalo sie obliczyc S(q) dla Z = 6132.37563517304!
+2012-04-19 11:42:49 : Obliczam S(q) dla Z = 10000
+2012-04-19 11:42:49 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.511526613496244
+RunRY - Iteracja: ??? = -, alpha = 0.466957774960199
+RunRY - Iteracja: ??? = -, alpha = 0.613831936195493
+RunRY - Iteracja: ??? = -, alpha = 0.389131479133499
+RunRY - Iteracja: ??? = -, alpha = 0.736598323434591
+RunRY - Iteracja: ??? = -, alpha = 0.324276232611249
+RunRY - Iteracja: ??? = -, alpha = 0.883917988121509
+RunRY - Iteracja: ??? = -, alpha = 0.270230193842708
+RunRY - Iteracja: ??? = -, alpha = 1.06070158574581
+RunRY - Iteracja: ??? = -, alpha = 0.225191828202256
+RunRY - Iteracja: ??? = -, alpha = 0.147923754295334
+RunRY - Iteracja: ??? = -, alpha = 0.680689856642857
+RunRY - Iteracja: ??? = -, alpha = 0.942337559303269
+RunRY - Iteracja: ??? = -, alpha = 0.620402117492631
+RunRY - Iteracja: ??? = -, alpha = 0.150255643995479
+RunRY - Iteracja: ??? = -, alpha = 0.550066456431523
+RunRY - Iteracja: ??? = -, alpha = 0.953760849079117
+RunRY - Iteracja: ??? = -, alpha = 0.613831936195493
+RunRY - Iteracja: ??? = -, alpha = 0.389131479133499
+RunRY - Iteracja: ??? = -, alpha = 0.736598323434591
+RunRY - Iteracja: ??? = -, alpha = 0.324276232611249
+RunRY - Iteracja: ??? = -, alpha = 0.883917988121509
+RunRY - Iteracja: ??? = -, alpha = 0.270230193842708
+RunRY - Iteracja: ??? = -, alpha = 1.06070158574581
+RunRY - Iteracja: ??? = -, alpha = 0.225191828202256
+RunRY - Iteracja: ??? = -, alpha = 0.555816657608375
+RunRY - Iteracja: ??? = -, alpha = 0.906561624957249
+RunRY - Iteracja: ??? = -, alpha = 0.223017717478797
+RunRY - Iteracja: ??? = -, alpha = 0.776810468407348
+RunRY - Iteracja: ??? = -, alpha = 0.233964673010632
+RunRY - Iteracja: ??? = -, alpha = 0.645038955844939
+2012-04-19 11:50:46 : RunRY: I tried to fit alpha 30 times and still can't do it! Skipping fit.
+2012-04-19 11:50:46 : Nie udalo sie obliczyc S(q) dla Z = 10000!
+2012-04-19 11:50:46 : ** Obliczam kolumne dla phi = 0.000131607401295249**
+2012-04-19 11:50:46 : Obliczam S(q) dla Z = 200
+2012-04-19 11:50:46 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha = 0.645038955844939
+RunRY - Iteracja: ??? = -, alpha = 0.58883731097642
+RunRY - Iteracja: ??? = -, alpha = 0.774046747013927
+RunRY - Iteracja: ??? = -, alpha = 0.490697759147017
+RunRY - Iteracja: ??? = -, alpha = 0.928856096416712
+RunRY - Iteracja: ??? = -, alpha = 0.40891479928918
+RunRY - Iteracja: ??? = -, alpha = 0.0950214623007923
+RunRY - Done: Dopasowanie udane, alfa =  1.409E-01
+2012-04-19 11:51:58 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 11:51:58 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.409E-01
+RunRY - Iteracja: ??? = -, alpha = 0.128623513920797
+RunRY - Iteracja: ??? = -, alpha = 0.16908
+RunRY - Iteracja: ??? = -, alpha = 0.107186261600664
+RunRY - Done: Dopasowanie udane, alfa =  1.151E-01
+2012-04-19 11:52:34 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 11:52:34 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.151E-01
+RunRY - Iteracja: ??? = -, alpha = 0.105071443948074
+RunRY - Iteracja: ??? = -, alpha = 0.13812
+RunRY - Iteracja: ??? = -, alpha = 0.0875595366233953
+RunRY - Done: Dopasowanie udane, alfa =  9.262E-02
+2012-04-19 11:53:11 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 11:53:11 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  9.262E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0845501054602141
+RunRY - Iteracja: ??? = -, alpha = 0.111144
+RunRY - Iteracja: ??? = -, alpha = 0.0704584212168451
+RunRY - Done: Dopasowanie udane, alfa =  7.394E-02
+2012-04-19 11:53:48 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 11:53:48 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  7.394E-02
+RunRY - Iteracja: ??? = -, alpha = 0.06749767650322
+RunRY - Iteracja: ??? = -, alpha = 0.088728
+RunRY - Iteracja: ??? = -, alpha = 0.0562480637526833
+RunRY - Done: Dopasowanie udane, alfa =  5.931E-02
+2012-04-19 11:54:25 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 11:54:25 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  5.931E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0541423748093857
+RunRY - Iteracja: ??? = -, alpha = 0.071172
+RunRY - Iteracja: ??? = -, alpha = 0.0451186456744881
+RunRY - Done: Dopasowanie udane, alfa =  4.825E-02
+2012-04-19 11:55:01 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 11:55:01 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  4.825E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0440460223327071
+RunRY - Iteracja: ??? = -, alpha = 0.0579
+RunRY - Iteracja: ??? = -, alpha = 0.0367050186105893
+RunRY - Done: Dopasowanie udane, alfa =  4.031E-02
+2012-04-19 11:55:36 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 11:55:36 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  4.031E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0367978271550554
+RunRY - Iteracja: ??? = -, alpha = 0.048372
+RunRY - Iteracja: ??? = -, alpha = 0.0306648559625462
+RunRY - Done: Dopasowanie udane, alfa =  3.490E-02
+2012-04-19 11:56:10 : Obliczam S(q) dla Z = 10000
+2012-04-19 11:56:10 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  3.490E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0318591954282172
+RunRY - Iteracja: ??? = -, alpha = 0.04188
+RunRY - Iteracja: ??? = -, alpha = 0.0265493295235143
+RunRY - Done: Dopasowanie udane, alfa =  3.165E-02
+2012-04-19 11:56:45 : ** Obliczam kolumne dla phi = 0.000477441834881986**
+2012-04-19 11:56:45 : Obliczam S(q) dla Z = 200
+2012-04-19 11:56:45 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  3.165E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0288923649083975
+RunRY - Iteracja: ??? = -, alpha = 0.03798
+RunRY - Iteracja: ??? = -, alpha = 0.0240769707569979
+RunRY - Iteracja: ??? = -, alpha = 0.045576
+RunRY - Iteracja: ??? = -, alpha = 0.0200641422974983
+RunRY - Iteracja: ??? = -, alpha = 0.0546912
+RunRY - Iteracja: ??? = -, alpha = 0.0167201185812486
+RunRY - Iteracja: ??? = -, alpha = 0.06562944
+RunRY - Iteracja: ??? = -, alpha = 0.0139334321510405
+RunRY - Iteracja: ??? = -, alpha = 0.078755328
+RunRY - Iteracja: ??? = -, alpha = 0.967596801696345
+RunRY - Iteracja: ??? = -, alpha = 0.427381604677066
+RunRY - Iteracja: ??? = -, alpha = 0.880883637350053
+RunRY - Iteracja: ??? = -, alpha = 0.780079084215686
+RunRY - Iteracja: ??? = -, alpha = 0.172872289549559
+RunRY - Done: Dopasowanie udane, alfa =  1.867E-01
+2012-04-19 11:59:26 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 11:59:26 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.867E-01
+RunRY - Iteracja: ??? = -, alpha = 0.170433002477024
+RunRY - Iteracja: ??? = -, alpha = 0.22404
+RunRY - Iteracja: ??? = -, alpha = 0.142027502064187
+RunRY - Done: Dopasowanie udane, alfa =  1.500E-01
+2012-04-19 12:00:02 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 12:00:02 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.500E-01
+RunRY - Iteracja: ??? = -, alpha = 0.136930639376292
+RunRY - Iteracja: ??? = -, alpha = 0.18
+RunRY - Iteracja: ??? = -, alpha = 0.11410886614691
+RunRY - Done: Dopasowanie udane, alfa =  1.195E-01
+2012-04-19 12:00:37 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 12:00:37 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.195E-01
+RunRY - Iteracja: ??? = -, alpha = 0.109088076036446
+RunRY - Iteracja: ??? = -, alpha = 0.1434
+RunRY - Iteracja: ??? = -, alpha = 0.0909067300303713
+RunRY - Done: Dopasowanie udane, alfa =  9.541E-02
+2012-04-19 12:01:14 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 12:01:14 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  9.541E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0870970153526132
+RunRY - Iteracja: ??? = -, alpha = 0.114492
+RunRY - Iteracja: ??? = -, alpha = 0.0725808461271776
+RunRY - Done: Dopasowanie udane, alfa =  7.719E-02
+2012-04-19 12:01:49 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 12:01:49 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  7.719E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0704645070230396
+RunRY - Iteracja: ??? = -, alpha = 0.092628
+RunRY - Iteracja: ??? = -, alpha = 0.0587204225191997
+RunRY - Done: Dopasowanie udane, alfa =  6.400E-02
+2012-04-19 12:02:24 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 12:02:24 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  6.400E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0584237394672177
+RunRY - Iteracja: ??? = -, alpha = 0.0768
+RunRY - Iteracja: ??? = -, alpha = 0.0486864495560148
+RunRY - Done: Dopasowanie udane, alfa =  5.494E-02
+2012-04-19 12:02:59 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 12:02:59 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  5.494E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0501531288488897
+RunRY - Iteracja: ??? = -, alpha = 0.065928
+RunRY - Iteracja: ??? = -, alpha = 0.0417942740407414
+RunRY - Done: Dopasowanie udane, alfa =  4.941E-02
+2012-04-19 12:03:33 : Obliczam S(q) dla Z = 10000
+2012-04-19 12:03:33 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  4.941E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0451049526105504
+RunRY - Done: Dopasowanie udane, alfa =  4.650E-02
+2012-04-19 12:03:45 : ** Obliczam kolumne dla phi = 0.00173205080756888**
+2012-04-19 12:03:45 : Obliczam S(q) dla Z = 200
+2012-04-19 12:03:45 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  4.650E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0424484982066504
+RunRY - Iteracja: ??? = -, alpha = 0.0558
+RunRY - Iteracja: ??? = -, alpha = 0.035373748505542
+RunRY - Iteracja: ??? = -, alpha = 0.06696
+RunRY - Iteracja: ??? = -, alpha = 0.0294781237546183
+RunRY - Iteracja: ??? = -, alpha = 0.080352
+RunRY - Iteracja: ??? = -, alpha = 0.0245651031288486
+RunRY - Iteracja: ??? = -, alpha = 0.0964224
+RunRY - Iteracja: ??? = -, alpha = 0.0204709192740405
+RunRY - Iteracja: ??? = -, alpha = 0.11570688
+RunRY - Iteracja: ??? = -, alpha = 0.170753474812955
+RunRY - Done: Dopasowanie udane, alfa =  2.435E-01
+2012-04-19 12:05:50 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 12:05:50 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.435E-01
+RunRY - Iteracja: ??? = -, alpha = 0.22228407125418
+RunRY - Iteracja: ??? = -, alpha = 0.2922
+RunRY - Iteracja: ??? = -, alpha = 0.18523672604515
+RunRY - Done: Dopasowanie udane, alfa =  1.936E-01
+2012-04-19 12:06:25 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 12:06:25 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.936E-01
+RunRY - Iteracja: ??? = -, alpha = 0.176731811888334
+RunRY - Iteracja: ??? = -, alpha = 0.23232
+RunRY - Iteracja: ??? = -, alpha = 0.147276509906945
+RunRY - Done: Dopasowanie udane, alfa =  1.539E-01
+2012-04-19 12:07:00 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 12:07:00 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.539E-01
+RunRY - Iteracja: ??? = -, alpha = 0.140490836000075
+RunRY - Iteracja: ??? = -, alpha = 0.18468
+RunRY - Iteracja: ??? = -, alpha = 0.117075696666729
+RunRY - Done: Dopasowanie udane, alfa =  1.236E-01
+2012-04-19 12:07:36 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 12:07:36 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.236E-01
+RunRY - Iteracja: ??? = -, alpha = 0.112830846846064
+RunRY - Iteracja: ??? = -, alpha = 0.14832
+RunRY - Iteracja: ??? = -, alpha = 0.0940257057050535
+RunRY - Done: Dopasowanie udane, alfa =  1.015E-01
+2012-04-19 12:08:10 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 12:08:10 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.015E-01
+RunRY - Iteracja: ??? = -, alpha = 0.0926563993112906
+RunRY - Iteracja: ??? = -, alpha = 0.1218
+RunRY - Iteracja: ??? = -, alpha = 0.0772136660927422
+RunRY - Done: Dopasowanie udane, alfa =  8.623E-02
+2012-04-19 12:08:45 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 12:08:45 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  8.623E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0787168602227841
+RunRY - Iteracja: ??? = -, alpha = 0.103476
+RunRY - Iteracja: ??? = -, alpha = 0.0655973835189868
+RunRY - Done: Dopasowanie udane, alfa =  7.669E-02
+2012-04-19 12:09:19 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 12:09:19 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  7.669E-02
+RunRY - Iteracja: ??? = -, alpha = 0.070008071558452
+RunRY - Done: Dopasowanie udane, alfa =  7.130E-02
+2012-04-19 12:09:31 : Obliczam S(q) dla Z = 10000
+2012-04-19 12:09:31 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  7.130E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0650876972501973
+RunRY - Done: Dopasowanie udane, alfa =  6.930E-02
+2012-04-19 12:09:42 : ** Obliczam kolumne dla phi = 0.00628348791584537**
+2012-04-19 12:09:42 : Obliczam S(q) dla Z = 200
+2012-04-19 12:09:42 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  6.930E-02
+RunRY - Iteracja: ??? = -, alpha = 0.0632619553918467
+RunRY - Iteracja: ??? = -, alpha = 0.08316
+RunRY - Iteracja: ??? = -, alpha = 0.0527182961598722
+RunRY - Iteracja: ??? = -, alpha = 0.099792
+RunRY - Iteracja: ??? = -, alpha = 0.0439319134665602
+RunRY - Iteracja: ??? = -, alpha = 0.1197504
+RunRY - Iteracja: ??? = -, alpha = 0.0366099278888002
+RunRY - Iteracja: ??? = -, alpha = 0.14370048
+RunRY - Iteracja: ??? = -, alpha = 0.0305082732406668
+RunRY - Iteracja: ??? = -, alpha = 0.172440576
+RunRY - Iteracja: ??? = -, alpha = 0.676910324255005
+RunRY - Iteracja: ??? = -, alpha = 0.184688503621146
+RunRY - Iteracja: ??? = -, alpha = 0.442757620010525
+RunRY - Iteracja: ??? = -, alpha = 0.790356358280405
+RunRY - Iteracja: ??? = -, alpha = 0.24704871699214
+RunRY - Done: Dopasowanie udane, alfa =  3.122E-01
+2012-04-19 12:12:27 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 12:12:27 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  3.122E-01
+RunRY - Iteracja: ??? = -, alpha = 0.284998304088521
+RunRY - Iteracja: ??? = -, alpha = 0.37464
+RunRY - Iteracja: ??? = -, alpha = 0.237498586740435
+RunRY - Done: Dopasowanie udane, alfa =  2.467E-01
+2012-04-19 12:13:01 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 12:13:01 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.467E-01
+RunRY - Iteracja: ??? = -, alpha = 0.225205258227541
+RunRY - Iteracja: ??? = -, alpha = 0.29604
+RunRY - Iteracja: ??? = -, alpha = 0.187671048522951
+RunRY - Done: Dopasowanie udane, alfa =  1.965E-01
+2012-04-19 12:13:36 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 12:13:36 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.965E-01
+RunRY - Iteracja: ??? = -, alpha = 0.179379137582942
+RunRY - Iteracja: ??? = -, alpha = 0.2358
+RunRY - Iteracja: ??? = -, alpha = 0.149482614652452
+RunRY - Done: Dopasowanie udane, alfa =  1.597E-01
+2012-04-19 12:14:10 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 12:14:10 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.597E-01
+RunRY - Iteracja: ??? = -, alpha = 0.145785487389292
+RunRY - Iteracja: ??? = -, alpha = 0.19164
+RunRY - Iteracja: ??? = -, alpha = 0.121487906157743
+RunRY - Done: Dopasowanie udane, alfa =  1.341E-01
+2012-04-19 12:14:45 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 12:14:45 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.341E-01
+RunRY - Iteracja: ??? = -, alpha = 0.122415991602405
+RunRY - Iteracja: ??? = -, alpha = 0.16092
+RunRY - Iteracja: ??? = -, alpha = 0.102013326335337
+RunRY - Done: Dopasowanie udane, alfa =  1.176E-01
+2012-04-19 12:15:19 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 12:15:19 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.176E-01
+RunRY - Iteracja: ??? = -, alpha = 0.107353621271013
+RunRY - Done: Dopasowanie udane, alfa =  1.079E-01
+2012-04-19 12:15:31 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 12:15:31 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.079E-01
+RunRY - Iteracja: ??? = -, alpha = 0.0984987732580124
+RunRY - Done: Dopasowanie udane, alfa =  1.024E-01
+2012-04-19 12:15:42 : Obliczam S(q) dla Z = 10000
+2012-04-19 12:15:43 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.024E-01
+RunRY - Iteracja: ??? = -, alpha = 0.0934779831475484
+RunRY - Done: Dopasowanie udane, alfa =  1.008E-01
+2012-04-19 12:15:54 : ** Obliczam kolumne dla phi = 0.0227950705695478**
+2012-04-19 12:15:54 : Obliczam S(q) dla Z = 200
+2012-04-19 12:15:54 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.008E-01
+RunRY - Iteracja: ??? = -, alpha = 0.0920173896608679
+RunRY - Iteracja: ??? = -, alpha = 0.12096
+RunRY - Iteracja: ??? = -, alpha = 0.0766811580507233
+RunRY - Iteracja: ??? = -, alpha = 0.145152
+RunRY - Iteracja: ??? = -, alpha = 0.0639009650422694
+RunRY - Iteracja: ??? = -, alpha = 0.1741824
+RunRY - Iteracja: ??? = -, alpha = 0.0532508042018912
+RunRY - Iteracja: ??? = -, alpha = 0.20901888
+RunRY - Iteracja: ??? = -, alpha = 0.0443756701682426
+RunRY - Iteracja: ??? = -, alpha = 0.250822656
+RunRY - Iteracja: ??? = -, alpha = 0.785402889363468
+RunRY - Iteracja: ??? = -, alpha = 0.561043171910569
+RunRY - Iteracja: ??? = -, alpha = 0.196642018156126
+RunRY - Iteracja: ??? = -, alpha = 0.338394569698721
+RunRY - Done: Dopasowanie udane, alfa =  3.901E-01
+2012-04-19 12:18:26 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 12:18:26 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  3.901E-01
+RunRY - Iteracja: ??? = -, alpha = 0.356110949471276
+RunRY - Iteracja: ??? = -, alpha = 0.46812
+RunRY - Iteracja: ??? = -, alpha = 0.296759124559396
+RunRY - Done: Dopasowanie udane, alfa =  3.075E-01
+2012-04-19 12:19:01 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 12:19:01 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  3.075E-01
+RunRY - Iteracja: ??? = -, alpha = 0.280707810721398
+RunRY - Iteracja: ??? = -, alpha = 0.369
+RunRY - Iteracja: ??? = -, alpha = 0.233923175601165
+RunRY - Done: Dopasowanie udane, alfa =  2.468E-01
+2012-04-19 12:19:36 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 12:19:36 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.468E-01
+RunRY - Iteracja: ??? = -, alpha = 0.225296545320458
+RunRY - Iteracja: ??? = -, alpha = 0.29616
+RunRY - Iteracja: ??? = -, alpha = 0.187747121100382
+RunRY - Done: Dopasowanie udane, alfa =  2.045E-01
+2012-04-19 12:20:10 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 12:20:10 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.045E-01
+RunRY - Iteracja: ??? = -, alpha = 0.186682105016344
+RunRY - Iteracja: ??? = -, alpha = 0.2454
+RunRY - Iteracja: ??? = -, alpha = 0.155568420846953
+RunRY - Done: Dopasowanie udane, alfa =  1.765E-01
+2012-04-19 12:20:45 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 12:20:45 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.765E-01
+RunRY - Iteracja: ??? = -, alpha = 0.161121718999436
+RunRY - Iteracja: ??? = -, alpha = 0.2118
+RunRY - Iteracja: ??? = -, alpha = 0.134268099166197
+RunRY - Done: Dopasowanie udane, alfa =  1.592E-01
+2012-04-19 12:21:19 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 12:21:19 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.592E-01
+RunRY - Iteracja: ??? = -, alpha = 0.145329051924704
+RunRY - Done: Dopasowanie udane, alfa =  1.493E-01
+2012-04-19 12:21:31 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 12:21:31 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.493E-01
+RunRY - Iteracja: ??? = -, alpha = 0.136291629725869
+RunRY - Done: Dopasowanie udane, alfa =  1.432E-01
+2012-04-19 12:21:43 : Obliczam S(q) dla Z = 10000
+2012-04-19 12:21:43 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.432E-01
+RunRY - Iteracja: ??? = -, alpha = 0.1307231170579
+RunRY - Done: Dopasowanie udane, alfa =  1.413E-01
+2012-04-19 12:21:55 : ** Obliczam kolumne dla phi = 0.0826953515674511**
+2012-04-19 12:21:55 : Obliczam S(q) dla Z = 200
+2012-04-19 12:21:55 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.413E-01
+RunRY - Iteracja: ??? = -, alpha = 0.128988662292467
+RunRY - Iteracja: ??? = -, alpha = 0.16956
+RunRY - Iteracja: ??? = -, alpha = 0.107490551910389
+RunRY - Iteracja: ??? = -, alpha = 0.203472
+RunRY - Iteracja: ??? = -, alpha = 0.0895754599253241
+RunRY - Iteracja: ??? = -, alpha = 0.2441664
+RunRY - Iteracja: ??? = -, alpha = 0.0746462166044367
+RunRY - Iteracja: ??? = -, alpha = 0.29299968
+RunRY - Iteracja: ??? = -, alpha = 0.0622051805036973
+RunRY - Iteracja: ??? = -, alpha = 0.351599616
+RunRY - Done: Dopasowanie udane, alfa =  4.622E-01
+2012-04-19 12:23:49 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 12:23:49 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  4.622E-01
+RunRY - Iteracja: ??? = -, alpha = 0.421928943464813
+RunRY - Iteracja: ??? = -, alpha = 0.55464
+RunRY - Iteracja: ??? = -, alpha = 0.351607452887344
+RunRY - Done: Dopasowanie udane, alfa =  3.647E-01
+2012-04-19 12:24:24 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 12:24:24 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  3.647E-01
+RunRY - Iteracja: ??? = -, alpha = 0.332924027870224
+RunRY - Iteracja: ??? = -, alpha = 0.43764
+RunRY - Iteracja: ??? = -, alpha = 0.277436689891853
+RunRY - Done: Dopasowanie udane, alfa =  2.969E-01
+2012-04-19 12:24:59 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 12:24:59 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.969E-01
+RunRY - Iteracja: ??? = -, alpha = 0.27103137887214
+RunRY - Iteracja: ??? = -, alpha = 0.35628
+RunRY - Iteracja: ??? = -, alpha = 0.22585948239345
+RunRY - Done: Dopasowanie udane, alfa =  2.523E-01
+2012-04-19 12:25:34 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 12:25:34 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.523E-01
+RunRY - Iteracja: ??? = -, alpha = 0.230317335430922
+RunRY - Iteracja: ??? = -, alpha = 0.30276
+RunRY - Iteracja: ??? = -, alpha = 0.191931112859102
+RunRY - Done: Dopasowanie udane, alfa =  2.247E-01
+2012-04-19 12:26:09 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 12:26:09 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.247E-01
+RunRY - Iteracja: ??? = -, alpha = 0.205122097785685
+RunRY - Done: Dopasowanie udane, alfa =  2.080E-01
+2012-04-19 12:26:21 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 12:26:21 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.080E-01
+RunRY - Iteracja: ??? = -, alpha = 0.189877153268458
+RunRY - Done: Dopasowanie udane, alfa =  1.983E-01
+2012-04-19 12:26:33 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 12:26:33 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.983E-01
+RunRY - Iteracja: ??? = -, alpha = 0.181022305255457
+RunRY - Done: Dopasowanie udane, alfa =  1.938E-01
+2012-04-19 12:26:46 : Obliczam S(q) dla Z = 10000
+2012-04-19 12:26:46 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.938E-01
+RunRY - Iteracja: ??? = -, alpha = 0.176914386074169
+RunRY - Done: Dopasowanie udane, alfa =  1.869E-01
+2012-04-19 12:26:58 : ** Obliczam kolumne dla phi = 0.3**
+2012-04-19 12:26:58 : Obliczam S(q) dla Z = 200
+2012-04-19 12:26:58 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  1.869E-01
+RunRY - Iteracja: ??? = -, alpha = 0.170615576662859
+RunRY - Iteracja: ??? = -, alpha = 0.22428
+RunRY - Iteracja: ??? = -, alpha = 0.142179647219049
+RunRY - Iteracja: ??? = -, alpha = 0.269136
+RunRY - Iteracja: ??? = -, alpha = 0.118483039349208
+RunRY - Iteracja: ??? = -, alpha = 0.3229632
+RunRY - Iteracja: ??? = -, alpha = 0.0987358661243399
+RunRY - Iteracja: ??? = -, alpha = 0.38755584
+RunRY - Iteracja: ??? = -, alpha = 0.0822798884369499
+RunRY - Iteracja: ??? = -, alpha = 0.465067008
+RunRY - Done: Dopasowanie udane, alfa =  4.700E-01
+2012-04-19 12:28:34 : Obliczam S(q) dla Z = 326.137881790662
+2012-04-19 12:28:34 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  4.700E-01
+RunRY - Iteracja: ??? = -, alpha = 0.42904933671238
+RunRY - Iteracja: ??? = -, alpha = 0.564
+RunRY - Iteracja: ??? = -, alpha = 0.357541113926983
+RunRY - Done: Dopasowanie udane, alfa =  3.719E-01
+2012-04-19 12:29:14 : Obliczam S(q) dla Z = 531.829589694499
+2012-04-19 12:29:14 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  3.719E-01
+RunRY - Iteracja: ??? = -, alpha = 0.339496698560285
+RunRY - Iteracja: ??? = -, alpha = 0.44628
+RunRY - Iteracja: ??? = -, alpha = 0.282913915466905
+RunRY - Iteracja: ??? = -, alpha = 0.535536
+RunRY - Iteracja: ??? = -, alpha = 0.23576159622242
+RunRY - Iteracja: ??? = -, alpha = 0.6426432
+RunRY - Iteracja: ??? = -, alpha = 0.196467996852017
+RunRY - Iteracja: ??? = -, alpha = 0.77117184
+RunRY - Iteracja: ??? = -, alpha = 0.163723330710014
+RunRY - Iteracja: ??? = -, alpha = 0.925406208
+RunRY - Iteracja: ??? = -, alpha = 0.37922179303132
+RunRY - Iteracja: ??? = -, alpha = 0.503863011719659
+RunRY - Iteracja: ??? = -, alpha = 0.35572045086883
+RunRY - Iteracja: ??? = -, alpha = 0.526953973807395
+RunRY - Iteracja: ??? = -, alpha = 0.733939485391602
+RunRY - Iteracja: ??? = -, alpha = 0.498868304304779
+RunRY - Iteracja: ??? = -, alpha = 0.44628
+RunRY - Iteracja: ??? = -, alpha = 0.282913915466905
+RunRY - Iteracja: ??? = -, alpha = 0.535536
+RunRY - Iteracja: ??? = -, alpha = 0.23576159622242
+RunRY - Iteracja: ??? = -, alpha = 0.6426432
+RunRY - Iteracja: ??? = -, alpha = 0.196467996852017
+RunRY - Iteracja: ??? = -, alpha = 0.77117184
+RunRY - Iteracja: ??? = -, alpha = 0.163723330710014
+RunRY - Iteracja: ??? = -, alpha = 0.925406208
+RunRY - Iteracja: ??? = -, alpha = 0.609597208444029
+RunRY - Iteracja: ??? = -, alpha = 0.522517142817378
+RunRY - Iteracja: ??? = -, alpha = 0.69934051996097
+RunRY - Iteracja: ??? = -, alpha = 0.931303823599592
+RunRY - Iteracja: ??? = -, alpha = 0.276874201605096
+RunRY - Done: Dopasowanie udane, alfa =  3.048E-01
+2012-04-19 12:36:33 : Obliczam S(q) dla Z = 867.248879282804
+2012-04-19 12:36:33 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  3.048E-01
+RunRY - Iteracja: ??? = -, alpha = 0.278243059212624
+RunRY - Iteracja: ??? = -, alpha = 0.36576
+RunRY - Iteracja: ??? = -, alpha = 0.23186921601052
+RunRY - Iteracja: ??? = -, alpha = 0.438912
+RunRY - Iteracja: ??? = -, alpha = 0.193224346675434
+RunRY - Iteracja: ??? = -, alpha = 0.5266944
+RunRY - Iteracja: ??? = -, alpha = 0.161020288896195
+RunRY - Iteracja: ??? = -, alpha = 0.63203328
+RunRY - Iteracja: ??? = -, alpha = 0.134183574080162
+RunRY - Iteracja: ??? = -, alpha = 0.758439936
+RunRY - Iteracja: ??? = -, alpha = 0.236064106924459
+RunRY - Iteracja: ??? = -, alpha = 0.23117996333167
+RunRY - Done: Dopasowanie udane, alfa =  2.609E-01
+2012-04-19 12:38:45 : Obliczam S(q) dla Z = 1414.2135623731
+2012-04-19 12:38:45 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.609E-01
+RunRY - Iteracja: ??? = -, alpha = 0.23816802542183
+RunRY - Iteracja: ??? = -, alpha = 0.31308
+RunRY - Iteracja: ??? = -, alpha = 0.198473354518191
+RunRY - Iteracja: ??? = -, alpha = 0.375696
+RunRY - Iteracja: ??? = -, alpha = 0.165394462098493
+RunRY - Iteracja: ??? = -, alpha = 0.4508352
+RunRY - Iteracja: ??? = -, alpha = 0.137828718415411
+RunRY - Iteracja: ??? = -, alpha = 0.54100224
+RunRY - Iteracja: ??? = -, alpha = 0.114857265346176
+RunRY - Iteracja: ??? = -, alpha = 0.649202688
+RunRY - Iteracja: ??? = -, alpha = 0.752234187908471
+RunRY - Iteracja: ??? = -, alpha = 0.844035736983642
+RunRY - Iteracja: ??? = -, alpha = 0.336086386581883
+RunRY - Iteracja: ??? = -, alpha = 0.923844646429643
+RunRY - Iteracja: ??? = -, alpha = 0.728482641978189
+RunRY - Iteracja: ??? = -, alpha = 0.97462488594465
+RunRY - Iteracja: ??? = -, alpha = 0.31308
+RunRY - Iteracja: ??? = -, alpha = 0.198473354518191
+RunRY - Done: Dopasowanie udane, alfa =  2.354E-01
+2012-04-19 12:42:25 : Obliczam S(q) dla Z = 2306.14307815994
+2012-04-19 12:42:25 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.354E-01
+RunRY - Iteracja: ??? = -, alpha = 0.21488981672786
+RunRY - Done: Dopasowanie udane, alfa =  2.239E-01
+2012-04-19 12:42:40 : Obliczam S(q) dla Z = 3760.60309308639
+2012-04-19 12:42:40 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.239E-01
+RunRY - Iteracja: ??? = -, alpha = 0.204391801042345
+RunRY - Done: Dopasowanie udane, alfa =  2.209E-01
+2012-04-19 12:42:55 : Obliczam S(q) dla Z = 6132.37563517304
+2012-04-19 12:42:55 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.209E-01
+RunRY - Done: Dopasowanie udane, alfa =  2.217E-01
+2012-04-19 12:42:58 : Obliczam S(q) dla Z = 10000
+2012-04-19 12:42:58 : Running Hard RY fit (wiggler variable or change direction not set).
+RunRY - Iteracja: ??? = -, alpha =  2.217E-01
+RunRY - Done: Dopasowanie udane, alfa =  2.438E-01

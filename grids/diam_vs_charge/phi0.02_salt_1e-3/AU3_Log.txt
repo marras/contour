@@ -1,0 +1,562 @@
+2012-04-29 16:50:48 : Próbkowanie S(q) w 2D dla par. startowych: d=xxx, Z=start_Z phi=0.02 salt=1e-3
+2012-04-29 16:50:48 : X: d od 50 do 100, Y: Z od 100 do 9999.99999999999
+2012-04-29 16:50:48 : ** Obliczam kolumne dla d = 50**
+2012-04-29 16:50:48 : Obliczam S(q) dla Z = 100
+RunRY - Iteracja: alpha = 0.3, timeout = 10
+RunRY - Iteracja: alpha = 0.273861278752583, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  5.887E-01
+2012-04-29 16:51:43 : Obliczam S(q) dla Z = 146.779926762207
+RunRY - Iteracja: alpha =  5.887E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.537407116005486, timeout = 10
+RunRY - Iteracja: alpha = 0.70644, timeout = 10
+RunRY - Iteracja: alpha = 0.447839263337905, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.895E-01
+2012-04-29 16:56:04 : Obliczam S(q) dla Z = 215.443469003188
+RunRY - Iteracja: alpha =  4.895E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.446850319831298, timeout = 10
+RunRY - Iteracja: alpha = 0.5874, timeout = 10
+RunRY - Iteracja: alpha = 0.372375266526082, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.053E-01
+2012-04-29 16:56:40 : Obliczam S(q) dla Z = 316.227766016838
+RunRY - Iteracja: alpha =  4.053E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.36998658759474, timeout = 10
+RunRY - Iteracja: alpha = 0.48636, timeout = 10
+RunRY - Iteracja: alpha = 0.30832215632895, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.356E-01
+2012-04-29 16:57:16 : Obliczam S(q) dla Z = 464.158883361278
+RunRY - Iteracja: alpha =  3.356E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.306359483831223, timeout = 10
+RunRY - Iteracja: alpha = 0.40272, timeout = 10
+RunRY - Iteracja: alpha = 0.255299569859352, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.797E-01
+2012-04-29 16:57:52 : Obliczam S(q) dla Z = 681.292069057961
+RunRY - Iteracja: alpha =  2.797E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.255329998890325, timeout = 10
+RunRY - Iteracja: alpha = 0.33564, timeout = 10
+RunRY - Iteracja: alpha = 0.212774999075271, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.362E-01
+2012-04-29 16:58:28 : Obliczam S(q) dla Z = 1000
+RunRY - Iteracja: alpha =  2.362E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.2156201134712, timeout = 10
+RunRY - Iteracja: alpha = 0.28344, timeout = 10
+RunRY - Iteracja: alpha = 0.179683427892667, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.034E-01
+2012-04-29 16:59:03 : Obliczam S(q) dla Z = 1467.79926762207
+RunRY - Iteracja: alpha =  2.034E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.185677946994251, timeout = 10
+RunRY - Iteracja: alpha = 0.24408, timeout = 10
+RunRY - Iteracja: alpha = 0.154731622495209, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.795E-01
+2012-04-29 16:59:39 : Obliczam S(q) dla Z = 2154.43469003188
+RunRY - Iteracja: alpha =  1.795E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.163860331786962, timeout = 10
+RunRY - Iteracja: alpha = 0.2154, timeout = 10
+RunRY - Iteracja: alpha = 0.136550276489135, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.622E-01
+2012-04-29 17:00:13 : Obliczam S(q) dla Z = 3162.27766016838
+RunRY - Iteracja: alpha =  1.622E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.14806766471223, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.511E-01
+2012-04-29 17:00:26 : Obliczam S(q) dla Z = 4641.58883361278
+RunRY - Iteracja: alpha =  1.511E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.137934797398384, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.439E-01
+2012-04-29 17:00:38 : Obliczam S(q) dla Z = 6812.92069057961
+RunRY - Iteracja: alpha =  1.439E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.131362126708322, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.389E-01
+2012-04-29 17:00:50 : Obliczam S(q) dla Z = 9999.99999999999
+RunRY - Iteracja: alpha =  1.389E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.126797772062446, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.366E-01
+2012-04-29 17:01:02 : ** Obliczam kolumne dla d = 56.1231024154687**
+2012-04-29 17:01:02 : Obliczam S(q) dla Z = 100
+RunRY - Iteracja: alpha =  1.366E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.124698168925343, timeout = 10
+RunRY - Iteracja: alpha = 0.16392, timeout = 10
+RunRY - Iteracja: alpha = 0.103915140771119, timeout = 10
+RunRY - Iteracja: alpha = 0.196704, timeout = 10
+RunRY - Iteracja: alpha = 0.0865959506425992, timeout = 10
+RunRY - Iteracja: alpha = 0.2360448, timeout = 10
+RunRY - Iteracja: alpha = 0.072163292202166, timeout = 10
+RunRY - Iteracja: alpha = 0.28325376, timeout = 10
+RunRY - Iteracja: alpha = 0.0601360768351383, timeout = 10
+RunRY - Iteracja: alpha = 0.339904512, timeout = 10
+RunRY - Iteracja: alpha = 0.0238444679416716, timeout = 10
+RunRY - Iteracja: alpha = 0.244993609143421, timeout = 10
+RunRY - Iteracja: alpha = 0.658888324396685, timeout = 10
+RunRY - Iteracja: alpha = 0.962252236669883, timeout = 10
+RunRY - Iteracja: alpha = 0.463839482050389, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  6.163E-01
+2012-04-29 17:03:46 : Obliczam S(q) dla Z = 146.779926762207
+RunRY - Iteracja: alpha =  6.163E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.562602353650723, timeout = 10
+RunRY - Iteracja: alpha = 0.73956, timeout = 10
+RunRY - Iteracja: alpha = 0.468835294708936, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  5.137E-01
+2012-04-29 17:04:21 : Obliczam S(q) dla Z = 215.443469003188
+RunRY - Iteracja: alpha =  5.137E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.46894179631734, timeout = 10
+RunRY - Iteracja: alpha = 0.61644, timeout = 10
+RunRY - Iteracja: alpha = 0.39078483026445, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.258E-01
+2012-04-29 17:04:57 : Obliczam S(q) dla Z = 316.227766016838
+RunRY - Iteracja: alpha =  4.258E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.388700441642833, timeout = 10
+RunRY - Iteracja: alpha = 0.51096, timeout = 10
+RunRY - Iteracja: alpha = 0.323917034702361, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.525E-01
+2012-04-29 17:05:33 : Obliczam S(q) dla Z = 464.158883361278
+RunRY - Iteracja: alpha =  3.525E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.321787002534285, timeout = 10
+RunRY - Iteracja: alpha = 0.423, timeout = 10
+RunRY - Iteracja: alpha = 0.268155835445238, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.932E-01
+2012-04-29 17:06:10 : Obliczam S(q) dla Z = 681.292069057961
+RunRY - Iteracja: alpha =  2.932E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.267653756434191, timeout = 10
+RunRY - Iteracja: alpha = 0.35184, timeout = 10
+RunRY - Iteracja: alpha = 0.223044797028493, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.465E-01
+2012-04-29 17:06:46 : Obliczam S(q) dla Z = 1000
+RunRY - Iteracja: alpha =  2.465E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.225022684041706, timeout = 10
+RunRY - Iteracja: alpha = 0.2958, timeout = 10
+RunRY - Iteracja: alpha = 0.187518903368088, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.110E-01
+2012-04-29 17:07:22 : Obliczam S(q) dla Z = 1467.79926762207
+RunRY - Iteracja: alpha =  2.110E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.192615766055983, timeout = 10
+RunRY - Iteracja: alpha = 0.2532, timeout = 10
+RunRY - Iteracja: alpha = 0.160513138379986, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.849E-01
+2012-04-29 17:07:57 : Obliczam S(q) dla Z = 2154.43469003188
+RunRY - Iteracja: alpha =  1.849E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.168789834804509, timeout = 10
+RunRY - Iteracja: alpha = 0.22188, timeout = 10
+RunRY - Iteracja: alpha = 0.140658195670424, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.661E-01
+2012-04-29 17:08:32 : Obliczam S(q) dla Z = 3162.27766016838
+RunRY - Iteracja: alpha =  1.661E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.151627861336014, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.534E-01
+2012-04-29 17:08:45 : Obliczam S(q) dla Z = 4641.58883361278
+RunRY - Iteracja: alpha =  1.534E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.140034400535487, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.451E-01
+2012-04-29 17:08:57 : Obliczam S(q) dla Z = 6812.92069057961
+RunRY - Iteracja: alpha =  1.451E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.132457571823333, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.397E-01
+2012-04-29 17:09:09 : Obliczam S(q) dla Z = 9999.99999999999
+RunRY - Iteracja: alpha =  1.397E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.127528068805786, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.365E-01
+2012-04-29 17:09:21 : ** Obliczam kolumne dla d = 62.9960524947437**
+2012-04-29 17:09:21 : Obliczam S(q) dla Z = 100
+RunRY - Iteracja: alpha =  1.365E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.124606881832425, timeout = 10
+RunRY - Iteracja: alpha = 0.1638, timeout = 10
+RunRY - Iteracja: alpha = 0.103839068193688, timeout = 10
+RunRY - Iteracja: alpha = 0.19656, timeout = 10
+RunRY - Iteracja: alpha = 0.0865325568280731, timeout = 10
+RunRY - Iteracja: alpha = 0.235872, timeout = 10
+RunRY - Iteracja: alpha = 0.0721104640233943, timeout = 10
+RunRY - Iteracja: alpha = 0.2830464, timeout = 10
+RunRY - Iteracja: alpha = 0.0600920533528286, timeout = 10
+RunRY - Iteracja: alpha = 0.33965568, timeout = 10
+RunRY - Iteracja: alpha = 0.248059011530131, timeout = 10
+RunRY - Iteracja: alpha = 0.864024526206777, timeout = 10
+RunRY - Iteracja: alpha = 0.225561489816755, timeout = 10
+RunRY - Iteracja: alpha = 0.0511499559506774, timeout = 10
+RunRY - Iteracja: alpha = 0.854871427407488, timeout = 10
+RunRY - Iteracja: alpha = 0.369727266021073, timeout = 20
+RunRY - Done: Dopasowanie udane, alfa =  6.446E-01
+2012-04-29 17:12:20 : Obliczam S(q) dla Z = 146.779926762207
+RunRY - Iteracja: alpha =  6.446E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.588436600946384, timeout = 10
+RunRY - Iteracja: alpha = 0.77352, timeout = 10
+RunRY - Iteracja: alpha = 0.490363834121986, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  5.387E-01
+2012-04-29 17:12:55 : Obliczam S(q) dla Z = 215.443469003188
+RunRY - Iteracja: alpha =  5.387E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.491763569546722, timeout = 10
+RunRY - Iteracja: alpha = 0.64644, timeout = 10
+RunRY - Iteracja: alpha = 0.409802974622268, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.472E-01
+2012-04-29 17:13:31 : Obliczam S(q) dla Z = 316.227766016838
+RunRY - Iteracja: alpha =  4.472E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.408235879527184, timeout = 10
+RunRY - Iteracja: alpha = 0.53664, timeout = 10
+RunRY - Iteracja: alpha = 0.340196566272653, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.702E-01
+2012-04-29 17:14:08 : Obliczam S(q) dla Z = 464.158883361278
+RunRY - Iteracja: alpha =  3.702E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.337944817980687, timeout = 10
+RunRY - Iteracja: alpha = 0.44424, timeout = 10
+RunRY - Iteracja: alpha = 0.281620681650573, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.074E-01
+2012-04-29 17:14:45 : Obliczam S(q) dla Z = 681.292069057961
+RunRY - Iteracja: alpha =  3.074E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.28061652362848, timeout = 10
+RunRY - Iteracja: alpha = 0.36888, timeout = 10
+RunRY - Iteracja: alpha = 0.233847103023733, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.577E-01
+2012-04-29 17:15:11 : Obliczam S(q) dla Z = 1000
+RunRY - Iteracja: alpha =  2.577E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.235246838448469, timeout = 10
+RunRY - Iteracja: alpha = 0.30924, timeout = 10
+RunRY - Iteracja: alpha = 0.196039032040391, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.191E-01
+2012-04-29 17:15:48 : Obliczam S(q) dla Z = 1467.79926762207
+RunRY - Iteracja: alpha =  2.191E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.200010020582303, timeout = 10
+RunRY - Iteracja: alpha = 0.26292, timeout = 10
+RunRY - Iteracja: alpha = 0.166675017151919, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.909E-01
+2012-04-29 17:16:23 : Obliczam S(q) dla Z = 2154.43469003188
+RunRY - Iteracja: alpha =  1.909E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.17426706037956, timeout = 10
+RunRY - Iteracja: alpha = 0.22908, timeout = 10
+RunRY - Iteracja: alpha = 0.1452225503163, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.704E-01
+2012-04-29 17:16:59 : Obliczam S(q) dla Z = 3162.27766016838
+RunRY - Iteracja: alpha =  1.704E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.155553206331467, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.560E-01
+2012-04-29 17:17:11 : Obliczam S(q) dla Z = 4641.58883361278
+RunRY - Iteracja: alpha =  1.560E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.142407864951343, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.466E-01
+2012-04-29 17:17:23 : Obliczam S(q) dla Z = 6812.92069057961
+RunRY - Iteracja: alpha =  1.466E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.133826878217096, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.410E-01
+2012-04-29 17:17:35 : Obliczam S(q) dla Z = 9999.99999999999
+RunRY - Iteracja: alpha =  1.410E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.128714801013714, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.369E-01
+2012-04-29 17:17:47 : ** Obliczam kolumne dla d = 70.7106781186548**
+2012-04-29 17:17:47 : Obliczam S(q) dla Z = 100
+RunRY - Iteracja: alpha =  1.369E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.124972030204095, timeout = 10
+RunRY - Iteracja: alpha = 0.16428, timeout = 10
+RunRY - Iteracja: alpha = 0.104143358503413, timeout = 10
+RunRY - Iteracja: alpha = 0.197136, timeout = 10
+RunRY - Iteracja: alpha = 0.0867861320861774, timeout = 10
+RunRY - Iteracja: alpha = 0.2365632, timeout = 10
+RunRY - Iteracja: alpha = 0.0723217767384811, timeout = 10
+RunRY - Iteracja: alpha = 0.28387584, timeout = 10
+RunRY - Iteracja: alpha = 0.0602681472820676, timeout = 10
+RunRY - Iteracja: alpha = 0.340651008, timeout = 10
+RunRY - Iteracja: alpha = 0.538515432737768, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  6.734E-01
+2012-04-29 17:19:48 : Obliczam S(q) dla Z = 146.779926762207
+RunRY - Iteracja: alpha =  6.734E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.614727283706631, timeout = 10
+RunRY - Iteracja: alpha = 0.80808, timeout = 10
+RunRY - Iteracja: alpha = 0.512272736422193, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  5.645E-01
+2012-04-29 17:20:24 : Obliczam S(q) dla Z = 215.443469003188
+RunRY - Iteracja: alpha =  5.645E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.515315639519444, timeout = 10
+RunRY - Iteracja: alpha = 0.6774, timeout = 10
+RunRY - Iteracja: alpha = 0.429429699599537, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.695E-01
+2012-04-29 17:20:50 : Obliczam S(q) dla Z = 316.227766016838
+RunRY - Iteracja: alpha =  4.695E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.428592901247792, timeout = 10
+RunRY - Iteracja: alpha = 0.5634, timeout = 10
+RunRY - Iteracja: alpha = 0.357160751039827, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.888E-01
+2012-04-29 17:21:26 : Obliczam S(q) dla Z = 464.158883361278
+RunRY - Iteracja: alpha =  3.888E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.354924217263348, timeout = 10
+RunRY - Iteracja: alpha = 0.46656, timeout = 10
+RunRY - Iteracja: alpha = 0.29577018105279, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.225E-01
+2012-04-29 17:22:03 : Obliczam S(q) dla Z = 681.292069057961
+RunRY - Iteracja: alpha =  3.225E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.294400874659027, timeout = 10
+RunRY - Iteracja: alpha = 0.387, timeout = 10
+RunRY - Iteracja: alpha = 0.245334062215856, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.695E-01
+2012-04-29 17:22:40 : Obliczam S(q) dla Z = 1000
+RunRY - Iteracja: alpha =  2.695E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.246018715412737, timeout = 10
+RunRY - Iteracja: alpha = 0.3234, timeout = 10
+RunRY - Iteracja: alpha = 0.205015596177281, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.283E-01
+2012-04-29 17:23:17 : Obliczam S(q) dla Z = 1467.79926762207
+RunRY - Iteracja: alpha =  2.283E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.208408433130716, timeout = 10
+RunRY - Iteracja: alpha = 0.27396, timeout = 10
+RunRY - Iteracja: alpha = 0.173673694275596, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.974E-01
+2012-04-29 17:23:53 : Obliczam S(q) dla Z = 2154.43469003188
+RunRY - Iteracja: alpha =  1.974E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.1802007214192, timeout = 10
+RunRY - Iteracja: alpha = 0.23688, timeout = 10
+RunRY - Iteracja: alpha = 0.150167267849333, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.750E-01
+2012-04-29 17:24:28 : Obliczam S(q) dla Z = 3162.27766016838
+RunRY - Iteracja: alpha =  1.750E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.159752412605673, timeout = 10
+RunRY - Iteracja: alpha = 0.21, timeout = 10
+RunRY - Iteracja: alpha = 0.133127010504728, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.591E-01
+2012-04-29 17:25:03 : Obliczam S(q) dla Z = 4641.58883361278
+RunRY - Iteracja: alpha =  1.591E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.145237764831787, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.486E-01
+2012-04-29 17:25:16 : Obliczam S(q) dla Z = 6812.92069057961
+RunRY - Iteracja: alpha =  1.486E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.135652620075446, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.420E-01
+2012-04-29 17:25:28 : Obliczam S(q) dla Z = 9999.99999999999
+RunRY - Iteracja: alpha =  1.420E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.129627671942889, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.375E-01
+2012-04-29 17:25:40 : ** Obliczam kolumne dla d = 79.37005259841**
+2012-04-29 17:25:40 : Obliczam S(q) dla Z = 100
+RunRY - Iteracja: alpha =  1.375E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.125519752761601, timeout = 10
+RunRY - Iteracja: alpha = 0.165, timeout = 10
+RunRY - Iteracja: alpha = 0.104599793968001, timeout = 10
+RunRY - Iteracja: alpha = 0.198, timeout = 10
+RunRY - Iteracja: alpha = 0.0871664949733337, timeout = 10
+RunRY - Iteracja: alpha = 0.2376, timeout = 10
+RunRY - Iteracja: alpha = 0.0726387458111115, timeout = 10
+RunRY - Iteracja: alpha = 0.28512, timeout = 10
+RunRY - Iteracja: alpha = 0.0605322881759262, timeout = 10
+RunRY - Iteracja: alpha = 0.342144, timeout = 10
+RunRY - Iteracja: alpha = 0.605162131832913, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  7.023E-01
+2012-04-29 17:27:40 : Obliczam S(q) dla Z = 146.779926762207
+RunRY - Iteracja: alpha =  7.023E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.641109253559797, timeout = 10
+RunRY - Iteracja: alpha = 0.84276, timeout = 10
+RunRY - Iteracja: alpha = 0.534257711299831, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  5.912E-01
+2012-04-29 17:28:16 : Obliczam S(q) dla Z = 215.443469003188
+RunRY - Iteracja: alpha =  5.912E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.539689293328424, timeout = 10
+RunRY - Iteracja: alpha = 0.70944, timeout = 10
+RunRY - Iteracja: alpha = 0.449741077773686, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.925E-01
+2012-04-29 17:28:52 : Obliczam S(q) dla Z = 316.227766016838
+RunRY - Iteracja: alpha =  4.925E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.449588932618824, timeout = 10
+RunRY - Iteracja: alpha = 0.591, timeout = 10
+RunRY - Iteracja: alpha = 0.37465744384902, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.083E-01
+2012-04-29 17:29:28 : Obliczam S(q) dla Z = 464.158883361278
+RunRY - Iteracja: alpha =  4.083E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.372725200382266, timeout = 10
+RunRY - Iteracja: alpha = 0.48996, timeout = 10
+RunRY - Iteracja: alpha = 0.310604333651888, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.384E-01
+2012-04-29 17:30:06 : Obliczam S(q) dla Z = 681.292069057961
+RunRY - Iteracja: alpha =  3.384E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.308915522432914, timeout = 10
+RunRY - Iteracja: alpha = 0.40608, timeout = 10
+RunRY - Iteracja: alpha = 0.257429602027428, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.822E-01
+2012-04-29 17:30:43 : Obliczam S(q) dla Z = 1000
+RunRY - Iteracja: alpha =  2.822E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.257612176213263, timeout = 10
+RunRY - Iteracja: alpha = 0.33864, timeout = 10
+RunRY - Iteracja: alpha = 0.214676813511053, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.379E-01
+2012-04-29 17:31:20 : Obliczam S(q) dla Z = 1467.79926762207
+RunRY - Iteracja: alpha =  2.379E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.217171994050798, timeout = 10
+RunRY - Iteracja: alpha = 0.28548, timeout = 10
+RunRY - Iteracja: alpha = 0.180976661708999, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.044E-01
+2012-04-29 17:31:56 : Obliczam S(q) dla Z = 2154.43469003188
+RunRY - Iteracja: alpha =  2.044E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.186590817923427, timeout = 10
+RunRY - Iteracja: alpha = 0.24528, timeout = 10
+RunRY - Iteracja: alpha = 0.155492348269522, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.800E-01
+2012-04-29 17:32:31 : Obliczam S(q) dla Z = 3162.27766016838
+RunRY - Iteracja: alpha =  1.800E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.16431676725155, timeout = 10
+RunRY - Iteracja: alpha = 0.216, timeout = 10
+RunRY - Iteracja: alpha = 0.136930639376292, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.627E-01
+2012-04-29 17:33:07 : Obliczam S(q) dla Z = 4641.58883361278
+RunRY - Iteracja: alpha =  1.627E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.148524100176818, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.507E-01
+2012-04-29 17:33:19 : Obliczam S(q) dla Z = 6812.92069057961
+RunRY - Iteracja: alpha =  1.507E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.137569649026714, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.430E-01
+2012-04-29 17:33:31 : Obliczam S(q) dla Z = 9999.99999999999
+RunRY - Iteracja: alpha =  1.430E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.130540542872065, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.385E-01
+2012-04-29 17:33:44 : ** Obliczam kolumne dla d = 89.089871814034**
+2012-04-29 17:33:44 : Obliczam S(q) dla Z = 100
+RunRY - Iteracja: alpha =  1.385E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.126432623690776, timeout = 10
+RunRY - Iteracja: alpha = 0.1662, timeout = 10
+RunRY - Iteracja: alpha = 0.105360519742313, timeout = 10
+RunRY - Iteracja: alpha = 0.19944, timeout = 10
+RunRY - Iteracja: alpha = 0.0878004331185944, timeout = 10
+RunRY - Iteracja: alpha = 0.239328, timeout = 10
+RunRY - Iteracja: alpha = 0.0731670275988286, timeout = 10
+RunRY - Iteracja: alpha = 0.2871936, timeout = 10
+RunRY - Iteracja: alpha = 0.0609725229990239, timeout = 10
+RunRY - Iteracja: alpha = 0.34463232, timeout = 10
+RunRY - Iteracja: alpha = 0.640927568078041, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  7.319E-01
+2012-04-29 17:35:43 : Obliczam S(q) dla Z = 146.779926762207
+RunRY - Iteracja: alpha =  7.319E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.668130233063385, timeout = 10
+RunRY - Iteracja: alpha = 0.87828, timeout = 10
+RunRY - Iteracja: alpha = 0.556775194219488, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  6.181E-01
+2012-04-29 17:36:19 : Obliczam S(q) dla Z = 215.443469003188
+RunRY - Iteracja: alpha =  6.181E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.564245521323239, timeout = 10
+RunRY - Iteracja: alpha = 0.74172, timeout = 10
+RunRY - Iteracja: alpha = 0.470204601102699, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  5.165E-01
+2012-04-29 17:36:55 : Obliczam S(q) dla Z = 316.227766016838
+RunRY - Iteracja: alpha =  5.165E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.47149783491903, timeout = 10
+RunRY - Iteracja: alpha = 0.6198, timeout = 10
+RunRY - Iteracja: alpha = 0.392914862432525, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.287E-01
+2012-04-29 17:37:32 : Obliczam S(q) dla Z = 464.158883361278
+RunRY - Iteracja: alpha =  4.287E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.391347767337441, timeout = 10
+RunRY - Iteracja: alpha = 0.51444, timeout = 10
+RunRY - Iteracja: alpha = 0.326123139447868, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.552E-01
+2012-04-29 17:38:10 : Obliczam S(q) dla Z = 681.292069057961
+RunRY - Iteracja: alpha =  3.552E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.324251754043058, timeout = 10
+RunRY - Iteracja: alpha = 0.42624, timeout = 10
+RunRY - Iteracja: alpha = 0.270209795035882, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.956E-01
+2012-04-29 17:38:47 : Obliczam S(q) dla Z = 1000
+RunRY - Iteracja: alpha =  2.956E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.269844646664212, timeout = 10
+RunRY - Iteracja: alpha = 0.35472, timeout = 10
+RunRY - Iteracja: alpha = 0.224870538886843, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.483E-01
+2012-04-29 17:39:24 : Obliczam S(q) dla Z = 1467.79926762207
+RunRY - Iteracja: alpha =  2.483E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.226665851714221, timeout = 10
+RunRY - Iteracja: alpha = 0.29796, timeout = 10
+RunRY - Iteracja: alpha = 0.188888209761851, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.121E-01
+2012-04-29 17:40:01 : Obliczam S(q) dla Z = 2154.43469003188
+RunRY - Iteracja: alpha =  2.121E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.193619924078076, timeout = 10
+RunRY - Iteracja: alpha = 0.25452, timeout = 10
+RunRY - Iteracja: alpha = 0.16134993673173, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.855E-01
+2012-04-29 17:40:37 : Obliczam S(q) dla Z = 3162.27766016838
+RunRY - Iteracja: alpha =  1.855E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.169337557362014, timeout = 10
+RunRY - Iteracja: alpha = 0.2226, timeout = 10
+RunRY - Iteracja: alpha = 0.141114631135012, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.663E-01
+2012-04-29 17:41:13 : Obliczam S(q) dla Z = 4641.58883361278
+RunRY - Iteracja: alpha =  1.663E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.151810435521849, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.530E-01
+2012-04-29 17:41:25 : Obliczam S(q) dla Z = 6812.92069057961
+RunRY - Iteracja: alpha =  1.530E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.139669252163817, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.445E-01
+2012-04-29 17:41:37 : Obliczam S(q) dla Z = 9999.99999999999
+RunRY - Iteracja: alpha =  1.445E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.131909849265827, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.393E-01
+2012-04-29 17:41:50 : ** Obliczam kolumne dla d = 100**
+2012-04-29 17:41:50 : Obliczam S(q) dla Z = 100
+RunRY - Iteracja: alpha =  1.393E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.127162920434116, timeout = 10
+RunRY - Iteracja: alpha = 0.16716, timeout = 10
+RunRY - Iteracja: alpha = 0.105969100361763, timeout = 10
+RunRY - Iteracja: alpha = 0.200592, timeout = 10
+RunRY - Iteracja: alpha = 0.0883075836348028, timeout = 10
+RunRY - Iteracja: alpha = 0.2407104, timeout = 10
+RunRY - Iteracja: alpha = 0.0735896530290024, timeout = 10
+RunRY - Iteracja: alpha = 0.28885248, timeout = 10
+RunRY - Iteracja: alpha = 0.061324710857502, timeout = 10
+RunRY - Iteracja: alpha = 0.346622976, timeout = 10
+RunRY - Iteracja: alpha = 0.760482346173376, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  7.621E-01
+2012-04-29 17:43:48 : Obliczam S(q) dla Z = 146.779926762207
+RunRY - Iteracja: alpha =  7.621E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.695698935124479, timeout = 10
+RunRY - Iteracja: alpha = 0.91452, timeout = 10
+RunRY - Iteracja: alpha = 0.579749112603732, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  6.459E-01
+2012-04-29 17:44:23 : Obliczam S(q) dla Z = 215.443469003188
+RunRY - Iteracja: alpha =  6.459E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.589623333154311, timeout = 10
+RunRY - Iteracja: alpha = 0.77508, timeout = 10
+RunRY - Iteracja: alpha = 0.491352777628593, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  5.413E-01
+2012-04-29 17:45:00 : Obliczam S(q) dla Z = 316.227766016838
+RunRY - Iteracja: alpha =  5.413E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.494137033962577, timeout = 10
+RunRY - Iteracja: alpha = 0.64956, timeout = 10
+RunRY - Iteracja: alpha = 0.411780861635481, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  4.500E-01
+2012-04-29 17:45:37 : Obliczam S(q) dla Z = 464.158883361278
+RunRY - Iteracja: alpha =  4.500E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.410791918128875, timeout = 10
+RunRY - Iteracja: alpha = 0.54, timeout = 10
+RunRY - Iteracja: alpha = 0.342326598440729, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.728E-01
+2012-04-29 17:46:14 : Obliczam S(q) dla Z = 681.292069057961
+RunRY - Iteracja: alpha =  3.728E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.340318282396543, timeout = 10
+RunRY - Iteracja: alpha = 0.44736, timeout = 10
+RunRY - Iteracja: alpha = 0.283598568663786, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  3.098E-01
+2012-04-29 17:46:51 : Obliczam S(q) dla Z = 1000
+RunRY - Iteracja: alpha =  3.098E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.282807413858501, timeout = 10
+RunRY - Iteracja: alpha = 0.37176, timeout = 10
+RunRY - Iteracja: alpha = 0.235672844882084, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.595E-01
+2012-04-29 17:47:30 : Obliczam S(q) dla Z = 1467.79926762207
+RunRY - Iteracja: alpha =  2.595E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.236890006120984, timeout = 10
+RunRY - Iteracja: alpha = 0.3114, timeout = 10
+RunRY - Iteracja: alpha = 0.197408338434154, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  2.204E-01
+2012-04-29 17:48:07 : Obliczam S(q) dla Z = 2154.43469003188
+RunRY - Iteracja: alpha =  2.204E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.201196752790231, timeout = 10
+RunRY - Iteracja: alpha = 0.26448, timeout = 10
+RunRY - Iteracja: alpha = 0.167663960658526, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.914E-01
+2012-04-29 17:48:43 : Obliczam S(q) dla Z = 3162.27766016838
+RunRY - Iteracja: alpha =  1.914E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.174723495844148, timeout = 10
+RunRY - Iteracja: alpha = 0.22968, timeout = 10
+RunRY - Iteracja: alpha = 0.145602913203457, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.707E-01
+2012-04-29 17:49:19 : Obliczam S(q) dla Z = 4641.58883361278
+RunRY - Iteracja: alpha =  1.707E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.15582706761022, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.561E-01
+2012-04-29 17:49:31 : Obliczam S(q) dla Z = 6812.92069057961
+RunRY - Iteracja: alpha =  1.561E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.142499152044261, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.462E-01
+2012-04-29 17:49:44 : Obliczam S(q) dla Z = 9999.99999999999
+RunRY - Iteracja: alpha =  1.462E-01, timeout = 10
+RunRY - Iteracja: alpha = 0.133461729845425, timeout = 10
+RunRY - Done: Dopasowanie udane, alfa =  1.400E-01
