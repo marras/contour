@@ -16,11 +16,14 @@ class ContourPlotGenerator:
     x = []; y = []; z = []; alpha = []
     xh = []; yh = []; zh = []
     fig = None
+    title = "S(qm) heightmap"
     num_points = 0
 
-    def __init__(self, filename, pts):
+    def __init__(self, filename, pts, title, auto = False):
         self.f = open (filename, "rt")
         self.pts = pts
+        self.title = title
+        self.auto = auto
         [self.xh, self.yh, self.zh] = self.f.readline().split()[:3] #skip header line
         print "Header: ",self.xh,self.yh,self.zh
 
@@ -53,22 +56,21 @@ class ContourPlotGenerator:
         # contour the gridded data.
         levels = arange(0.1, 5.1, 0.3) # Boost the upper limit to avoid truncation
 
-        if not only_line:
-            CS = contour(xi,yi,zi,15,linewidths=0.5,colors='k')
-            CS = contourf(xi,yi,zi,15,cmap=cm.jet, levels=levels)
-            colorbar() # draw colorbar
-            scatter(self.x,self.y,marker='o',c='b',s=5)
+        CS = contour(xi,yi,zi,15,linewidths=0.5,colors='k')
+        CS = contourf(xi,yi,zi,15,cmap=cm.jet, levels=levels)
+        colorbar() # draw colorbar
+        scatter(self.x,self.y,marker='o',c='b',s=5)
 
-            if more_to_come:
-                print "Error: requested to create a contour plot with multiple data sets! Drawing only first one."
-                return
+        if more_to_come:
+            print "Error: requested to create a contour plot with multiple data sets! Drawing only first one."
+            return
 
         CS = contour(xi,yi,zi, (3.1,), colors = 'k', linewidths = 3, hold='on')
 
         # Set up plot appearance
         xlabel(self.xh)
         ylabel(self.yh)
-        title('Mapa S(q_m)')
+        title(self.title)
         xscale('log')
         yscale('log')
 
@@ -128,18 +130,23 @@ class ContourPlotGenerator:
         self.fig.canvas.mpl_connect('button_press_event', self.mouse.on_pick)
 
         self.fig.show()
-        while True:
+        if self.auto:
+          self.fig.savefig('Fig.png')
+        else:
+          while True:
             self.fig.waitforbuttonpress()
 
+tit = ""
+auto = False
 
 if len(sys.argv) > 1:
-    if sys.argv[1] == '--line': only_line = True
-    print "Generating line phase diagram"
+    a = sys.argv[1].split('_')
+    tit = "%s = %s, %s = %s" % (a[0], a[1], a[2], a[3])
+    auto = True
 else:
-    only_line = False
-    print "Generating contour plot for S(qm)"
+    print "Generating contour plot for S(qm): dane.dat"
 
-cpg = ContourPlotGenerator ("dane.dat", 100)
+cpg = ContourPlotGenerator ("dane.dat", 100, tit, auto)
 cpg.start()
 
 #import code; code.interact(local=locals()) #TURN ON DEBUGGER
